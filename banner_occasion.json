@@ -1,0 +1,3880 @@
+{
+    "1-pan-fudge-cake-29935": {
+        "id": "1",
+        "name": "1 Pan Fudge Cake",
+        "author": "Mysterygirl",
+        "cookTime": "PT25M",
+        "prepTime": "PT5M",
+        "totalTime": "PT30M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/29/93/5/7obXx2yMRaud7zkfbUxc_chococake.jpg",
+        "recipeCategory": "Dessert",
+        "keywords": "Lunch/Snacks,Low Protein,Vegan,Low Cholesterol,Kid Friendly,Kosher,Potluck,Christmas,Hanukkah,Ramadan,< 30 Mins,Oven,Easy",
+        "recipeIngredient": [
+            "1 1/2  cups    sugar",
+            "1/2  cup    cocoa",
+            "1 1/2  teaspoons    baking soda",
+            "2   cups    flour",
+            "3/4  teaspoon    salt",
+            "1 1/2  teaspoons    vanilla",
+            "3/4  cup    vegetable oil",
+            "1 1/2  cups    water",
+            "1 1/2  teaspoons    vinegar"
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "369.6",
+            "fatContent": "17",
+            "saturatedFatContent": "2.2",
+            "cholesterolContent": "0",
+            "sodiumContent": "365.1",
+            "carbohydrateContent": "51.5",
+            "fiberContent": "1.5",
+            "sugarContent": "30.1",
+            "proteinContent": "3.4"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Preheat oven to 350 degrees."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "In an ungreased 9 x 13 pan- yes UNgreased, sift all dry ingredients."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add the liquids and stir just until blended."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Bake for 25 minutes."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Frost with your favorite frosting, cake is extremely moist so care must be taken that you don't tear up the top of the cake."
+            }
+        ],
+        "recipeYield": "1 \"9x13 inch cake\", 10-12 serving(s)",
+        "imagelocal": "1_pan_fudge_cake.webp"
+    },
+    "the-grinch-christmas-cake-537726": {
+        "id": "537726",
+        "name": "The Grinch Christmas Cake",
+        "author": "Milkmoon Kitchen",
+        "cookTime": "PT2H",
+        "prepTime": "PT6H",
+        "totalTime": "PT8H",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/submissions/recipe/2002205938/AGgZujftQpe21yS8hvdB_Grinchy%20Christmas%20EDITED%20(22%20of%2043)%20copy.jpg",
+        "recipeCategory": "Dessert",
+        "keywords": "For Large Groups",
+        "recipeIngredient": [
+            "4 1/2  cups    all-purpose flour",
+            "1   tablespoon   and 1 1/2 teaspoons baking powder",
+            "2   teaspoons    salt",
+            "1   tablespoon    ground ginger",
+            "2   teaspoons    cinnamon",
+            "1   teaspoon    clove",
+            "1 1/2  cups    butter, at room temperature ",
+            "1 1/2  cups    sugar",
+            "1 1/2  cups    dark brown sugar",
+            "6   large    eggs, at room temperature ",
+            "1 1/4  cups    molasses",
+            "1   tablespoon    vanilla",
+            "1 1/2  cups    whole milk, at room temperature ",
+            "3   cups    flour",
+            "1   tablespoon   and 1 teaspoon baking powder",
+            "1   teaspoon    salt",
+            "1   teaspoon    nutmeg",
+            "1/2  teaspoon    cinnamon",
+            "3/4  cup    butter, at room temperature ",
+            "4       eggs",
+            "2   teaspoons    vanilla",
+            "1   cup    eggnog, at room temperature ",
+            "2   teaspoons    green food coloring (gel)",
+            "2 1/3  cups    sugar",
+            "1/3  cup    dark brown sugar",
+            "2   cups    water",
+            "7   large    egg whites, at room temperature ",
+            "1   teaspoon    cream of tartar",
+            "2   lbs    unsalted butter, at room temperature ",
+            "4   ounces    cream cheese, at room temperature ",
+            "1/2  cup    sour cream, at room temperature ",
+            "1   tablespoon    vanilla",
+            "1/2  teaspoon    salt",
+            "  green food coloring (gel)",
+            "  red food coloring (gel)",
+            "  blue food coloring (gel)",
+            "  yellow food coloring (gel)",
+            "  pink food coloring (gel)",
+            " brown food coloring (gel)"
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "890.5",
+            "fatContent": "53.9",
+            "saturatedFatContent": "33.1",
+            "cholesterolContent": "220.1",
+            "sodiumContent": "676.3",
+            "carbohydrateContent": "94.5",
+            "fiberContent": "1.3",
+            "sugarContent": "60.4",
+            "proteinContent": "9.6"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Special Equipment Needed:."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Gel food coloring; set of nine round cookie cutters in graduated sizes; piping bags; an Ateco piping tip #849 (or any large star tip); extra-tall cake scraper (14&rdquo; at least&mdash;you can also use a quilting ruler!); a candy thermometer."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Bake the Gingerbread Cake:."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Preheat your oven to 350&deg;. Prepare four 6&rdquo;x3&rdquo; pans by spraying the bottoms with cooking spray and laying a baking paper round at the bottom of each."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Combine your dry ingredients in a medium bowl and set aside."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Place your butter, white sugar, and brown sugar in the bowl of a stand mixer fitted with the paddle attachment and beat on medium speed until light and fluffy. Add your eggs in one at a time until all six are incorporated, then stream in your molasses and add the vanilla, beating another 30 seconds to make sure everything is homogenous."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Scrape the bottom of the bowl, then add your dry ingredients in three additions alternating with your milk, starting and ending with the dry mix. Stop the mixer as soon as you see no more streaks in the batter."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Divide your batter between the four prepared pans and bake for 45-55 minutes&mdash;you&rsquo;ll know the cakes are baked through when you press gently on the top and the cake springs back."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A general note about this batter: we&rsquo;re using a lot of liquid here, which keeps the cake super moist and yummy. This can cause the cake to bake up with a slight dip in the top instead of a dome. Don&rsquo;t worry if you see that happen, just trim the topmost edges of the cake away when you&rsquo;re getting ready to cut your layers, and when you are cutting circles out of the middle of your layers you can use the larger cookie cutters to cut out any caramelization or even holes in the layers left from the top!"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Remove the cakes from the oven and cool on a rack for at least 20 minutes before using a small paring knife to free the sides from the pan and removing the cake. Allow to come to room temperature, then wrap in plastic and allow to chill all the way through in the refrigerator before leveling and torting, ideally for at least 2 hours."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Bake the Green Eggnog Cake:."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Preheat your oven to 350&deg;. Prepare two 6&rdquo;x3&rdquo; pans by spraying the bottoms with cooking spray and laying a baking paper round at the bottom of each."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Combine your dry ingredients in a medium bowl and set aside."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Place your butter and sugar in the bowl of a stand mixer fitted with the paddle attachment and beat on medium speed until light and fluffy. Add your eggs in one at a time until all four are incorporated, then add the vanilla, beating another 30 seconds to make sure everything is homogenous."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Combine your eggnog with your green food coloring gel and set aside."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Scrape the bottom of the bowl, then add your dry ingredients in three additions alternating with your eggnog, starting and ending with the dry mix. Stop the mixer as soon as you see no more streaks in the batter."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Divide your batter between the two prepared pans and bake for 40-50 minutes&mdash;you&rsquo;ll know the cakes are baked through when you press gently on the top and the cake springs back."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Remove the cakes from the oven and cool on a rack for at least 20 minutes before using a small paring knife to free the sides from the pan and removing the cake. Allow to come to room temperature, then wrap in plastic and allow to chill all the way through in the refrigerator before leveling and torting, ideally for at least 2 hours."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Make the Buttercream:."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Place the sugar, brown sugar, and water in a medium saucepan and set over medium heat, stirring occasionally. Use a pastry brush dipped in water to melt the sugar crystals that form on the sides of the pan. When the syrup begins to boil, reduce the heat to low and insert a candy thermometer into the syrup. Allow it to continue to boil while moving on to the next step."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Place the egg whites in the clean bowl of a stand mixer fitted with a whisk attachment. Whip the whites until frothy, then sprinkle in the cream of tartar (this improves the strength of the meringue)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Keeping an eye on the temperature of the sugar syrup, increase the speed of the mixer to high to achieve stiff peaks. Ideally, you will time this to coincide with the sugar syrup reaching 248&deg;-250&deg; F, the Firm Ball Stage. If your whites reach stiff peaks before the sugar syrup reaches the correct temperature, reduce the mixer speed to the lowest setting and leave running until the syrup is ready."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "When the syrup reaches 248&deg;-250&deg; F, increase the mixer speed to the highest setting. Remove the saucepan from the heat and slowly pour the hot syrup down the side of the bowl into the egg whites, being very careful to avoid allowing the stream to hit the whisk and spatter. Pour slowly and steadily until all the syrup has been added, and continue beating the meringue until it becomes light and fluffy and holds its shape exactly when the beater is removed, roughly 3-5 minutes."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "After this time, the meringue may still be hot&mdash;if so, place the bowl in the refrigerator (or freezer) for 8-10 minutes until it has cooled all the way through."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "When the meringue has cooled, place the bowl back on the mixer, replacing the whisk with the paddle attachment. Begin mixing on low, and add the butter 1/4 cup (half a stick) at a time, beating well after each addition. Once the butter is added, increase the speed to medium and beat the buttercream until it becomes light and fluffy. It may look soupy or curdled shortly after all the butter is added&mdash;this is okay! Just keep on beating it and it will whip up into a light, fluffy cloud."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "While the buttercream is whipping up, mix your cream cheese, sour cream, vanilla, and salt together in a small bowl. Add to your buttercream all at once and beat on low speed until incorporated."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cut Your Layers:."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Level and torte each of the 4 gingerbread cakes into 3 layers for a total of 12. Level and torte your green eggnog cake into 3 layers each for a total of 6, trying to keep these layers the same thickness as the gingerbread layers."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Using your 9 round cutters, cut one circle for each cutter size out of the middle of 8 of your gingerbread cakes, reserving the other 3. Then, using the second-smallest cutter, cut a round out of the middle of 2 more gingerbread rounds (these layers will create the trunk of your tree), leaving just 1 last layer whole. Discard the small rounds you&rsquo;ve removed (read: snack away!)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Use the 8 larger cutters to cut green rounds out of the green eggnog layers, cutting 2 small rounds out of each layer once you get to the 4 smaller sizes to economize on space. You should wind up with 8 total green rounds of varying sizes. This time, reserve the small rounds, and snack on the scraps left from the layers they were cut from."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Take the cutter that&rsquo;s two sizes smaller and place it gently on top of each green circle. Press lightly to mark the top of each green circle, and using that as a guide, gently trim the edges of each round at an angle."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Insert each angled green round into its properly-sized gingerbread layer to keep everything organized, and to prepare for building the cake, arrange your stack of layers stack so the gingerbread layer with the smallest, empty hole goes at the bottom, and then the layers should go from smallest to biggest green round, the opposite of how it will appear when it&rsquo;s finally stacked with buttercream to look like a tree. Top it off with the 2 &ldquo;trunk&rdquo; layers, and finally the single whole layer. Wrap the stack in plastic and refrigerate until you&rsquo;re ready to use it."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Color Your Buttercream:."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Color two cups of your holiday buttercream with 3-4 drops of your forest green gel color."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Color half a cup each with 1/2 teaspoon red, 3 drops yellow, and 5-6 drops blue."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Mix 1/4 cup with a few drops of brown for a tree trunk color."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Mix 1.5 cups with 1/4 tsp deep pink, and red until the color is as bright as you want it! It&rsquo;s Dr. Seuss, so go a little nuts."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Place each color in its own piping bag with no tip; you&rsquo;ll cut the tips away as needed to create workable holes."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tip: If the buttercream looks broken at any point, microwave for 3 seconds at a time once or twice, mixing by hand each time to re-incorporate."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Stack Your Cake:."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Place a small dollop of buttercream on the cake plate or drum you&rsquo;re using as a base and center the single whole cake layer on it. Spread a thin layer of plain, un-colored buttercream on the layer and then place one of the 2 &ldquo;trunk&rdquo; layers down. Add another layer of plain buttercream, this time icing around the hole cut out of the middle of the slice."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Stack the second &ldquo;trunk&rdquo; layer on top, use plain buttercream to add a layer of filling, then pipe your brown buttercream into the hole created by those two layers. Fill it a little above the top, then level it with your spatula."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Now, begin to add your green tree layers. Starting with the layer with the largest green insert, place it on top of the &ldquo;trunk&rdquo; layers with the angle you&rsquo;ve cut into the edges sloping down. Pipe a ring of plain buttercream around that sloped cake to seal it, then smooth it, trying not to get any plain buttercream on the green part of the cake."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Now you&rsquo;ll add your Christmas lights! Cut off a very small bit of the tip of your red, blue, green, and yellow piping bags to leave a small hole, and pipe concentric rings of color on top of the green part of the layer, switching up colors as you go and leaving space between each ring. Fill in the gaps with your green, and very gently smooth that section of buttercream down. Add plain buttercream to the gingerbread portion of the layer and smooth to create one level layer of buttercream, then place your next largest green layer on top."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Continue this process until you run out of green layers. You&rsquo;ll be left with a gingerbread layer with the smallest hole cut into it, but no green cake inside. Fill this gap with yellow buttercream to represent the start at the top of the tree, and smooth out. Ice over the top with a very thin layer of plain buttercream to seal that yellow in, then refrigerate the stacked cake."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ice Your Cake:."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Once your cake has had 15-20 minutes to chill, trim the sides if you&rsquo;d like."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "If desired, you can also start icing the cake by doing a light coat of plain, un-colored buttercream over the whole cake so that when you apply your colored buttercream you don&rsquo;t have to use very much."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Using your leftover blue (perhaps cutting a bigger hole in the tip of your piping bag) and your 1.5 cups pinky red, pipe alternating rings of buttercream around the sides of the cake, keeping in mind that you have more red than blue so keep the red sections about 2-3 times taller. It doesn&rsquo;t need to be, and in fact shouldn&rsquo;t be, perfect, since a little unevenness is in keeping with Dr. Seuss&rsquo; aesthetic!"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Pipe a large dollop of red on the top of the cake and, using a small offset spatula, smooth it down."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Using a very tall straight edge (you can use a quilting ruler if you don&rsquo;t have a cake scraper tall enough!), smooth down the rings of color on your cake, keeping the scraper level so you don&rsquo;t muddy up your layers of color."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "When you&rsquo;re happy with that, clean up the top of your cake if you need to and refrigerate."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Finishing Touches:."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Use an Ateco tip 849 (or any large star tip) and any leftover green buttercream to pipe ruffled puffs around the top of the cake, making pretty buttercream &ldquo;trees.&rdquo; Pipe a little yellow dot at the top of each tree."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "You can also finish the bottom edge of the cake with a little yellow pearl border like I did, or leave it, your call! Get creative!"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Now you can slice your Seussian masterpiece to reveal your sneaky surprise inside, a stunning Christmas tree that will warm the heart of even the grumpiest of grinches this holiday season!"
+            }
+        ],
+        "recipeYield": "1 Cake, 24 serving(s)",
+        "imagelocal": "the_grinch_christmas_cake.webp"
+    },
+    "mini-christmas-cakes-105332": {
+        "id": "105332",
+        "name": "Mini Christmas Cakes",
+        "author": "Kookaburra",
+        "cookTime": "PT40M",
+        "prepTime": "PT40M",
+        "totalTime": "PT1H20M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/10/53/32/DJYsUJ5RyqNzN6CsQB5Q_untitled-0096.jpg",
+        "recipeCategory": "Dessert",
+        "keywords": "Fruit,Christmas,Oven,< 4 Hours",
+        "recipeIngredient": [
+            "1 1/2  kg    mixed dried fruit",
+            "50   ml    dark rum (I buy a miniature bottle of rum)",
+            "4   large    eggs, lightly beaten ",
+            "1       granny smith apple, peeled and grated ",
+            "1   tablespoon    treacle or 1   tablespoon    molasses",
+            "1   cup    brown sugar, firmly packed  (I use dark, muscavado sugar, but normal light brown sugar will do)",
+            "250   g    butter, melted ",
+            "1 1/2  cups    plain flour",
+            "1/2  cup    self-raising flour",
+            "200   g    blanched almonds",
+            "150   g    glace cherries",
+            "64 -72       paper baking cups"
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "293.1",
+            "fatContent": "10.5",
+            "saturatedFatContent": "4.5",
+            "cholesterolContent": "40",
+            "sodiumContent": "105.7",
+            "carbohydrateContent": "49",
+            "fiberContent": "4.7",
+            "sugarContent": "11.7",
+            "proteinContent": "4.2"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Place mixed fruit into a very large basin."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add rum and mix well."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cover with plastic wrap and allow to stand overnight."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "The next day, preheat oven to 150&deg;C (300&deg;F) and arrange oven racks to accommodate muffin tins in the centre section of the oven."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Place 2 muffin cases into each hole of 2 or 3, 12 hole muffin tins."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "One ingredient at a time, add the beaten eggs, grated apple, treacle and sugar to the fruit mixture, mixing well with a wooden spoon after each addition."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add cooled, melted butter and sifted flours and mix thoroughly."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "If you're making these instead of a Christmas cake, make sure to let every member of the family have a stir of the mixture while they make a Christmas wish."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Spoon the mixture into the muffin cases, filling to almost full."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Use the back of a spoon to smooth the top of each cake."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Press a glace cherry into the centre of each cake and, around each cherry, press in 5 almonds to make &#x91;petals&#x92;- pointy end closest to the cherry."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Bake, in batches if necessary, at 150&deg;C (300&deg;F) for about 40-45 minutes or until a skewer inserted into the centre of a cake comes out clean."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "When cooked, remove muffin tins from the oven, remove cakes in their papers from muffin tins and cool on racks."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "When cakes are completely cool, store in airtight tins and keep in a cool place or, if you're in a warm climate, store in the refrigerator."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Alternatively, wrap each cake, still in its paper, tightly in plastic wrap, pack into plastic freezer bags and freeze."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cakes will keep for at least a month if stored correctly or longer if frozen."
+            }
+        ],
+        "recipeYield": "32-36 mini cakes",
+        "imagelocal": "mini_christmas_cakes.webp"
+    },
+    "christmas-cake-344103": {
+        "id": "344103",
+        "name": "Christmas Cake",
+        "author": "Elanas Pantry",
+        "cookTime": "PT45M",
+        "prepTime": "PT2H",
+        "totalTime": "PT2H45M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/34/41/03/picRUCTzF.jpg",
+        "recipeCategory": "Dessert",
+        "keywords": "Free Of...,Christmas,< 4 Hours",
+        "recipeIngredient": [
+            "1   large    orange",
+            "4       eggs",
+            "3/4  cup    agave nectar",
+            "1/2  teaspoon    almond extract",
+            "2   cups   blanched almond flour",
+            "1/2  teaspoon   celtic sea salt",
+            "1   teaspoon    baking soda",
+            "1   cup    dried cranberries",
+            "1/2  cup    dried apricot, chopped ",
+            "1/2  cup    pistachios, chopped ",
+            "1/2  cup    walnuts, chopped "
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "328",
+            "fatContent": "21.5",
+            "saturatedFatContent": "3.3",
+            "cholesterolContent": "211.5",
+            "sodiumContent": "677.9",
+            "carbohydrateContent": "25.2",
+            "fiberContent": "6",
+            "sugarContent": "15.9",
+            "proteinContent": "12.8"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Wash the orange and boil it whole (peel and all) for 1 &frac12; hours, or until soft.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Place whole orange (peel and all) in a food processor and blend until smooth.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Process in eggs, agave, almond extract, almond flour, salt and baking soda until well blended.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Transfer mixture to a bowl and stir in cranberries, apricots, pistachios and walnuts.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Pour mixture into a greased, almond flour dusted 9 inch springform pan.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "If cake begins to brown on top before center is done, cover with tin foil.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Bake at 350&deg; for 45-55 minutes, or until a knife stuck in the center comes out clean.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cool in the pan for 2 hours.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Serve."
+            }
+        ],
+        "recipeYield": "1 cake, 4-6 serving(s)",
+        "imagelocal": "christmas_cake.webp"
+    },
+    "cinnamon-nut-cake-22578": {
+        "id": "22578",
+        "name": "Cinnamon Nut Cake",
+        "author": "Debbie in New Jersey",
+        "cookTime": "PT1H",
+        "prepTime": "PT30M",
+        "totalTime": "PT1H30M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/22/57/8/picvNOpao.jpg",
+        "recipeCategory": "Dessert",
+        "keywords": "Weeknight,< 4 Hours",
+        "recipeIngredient": [
+            "1   cup    butter or 1   cup    margarine",
+            "2   cups    sugar",
+            "4       eggs",
+            "4   cups    flour",
+            "2   teaspoons    baking powder",
+            "2   teaspoons    baking soda",
+            "1   pint    sour cream",
+            "1   cup   chopped nuts",
+            "3   tablespoons    sugar",
+            "3   teaspoons    cinnamon",
+            "  confectioners' sugar (for dusting)"
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "7256.6",
+            "fatContent": "376",
+            "saturatedFatContent": "193.1",
+            "cholesterolContent": "1536.5",
+            "sodiumContent": "6002.9",
+            "carbohydrateContent": "883",
+            "fiberContent": "29.6",
+            "sugarContent": "447.7",
+            "proteinContent": "117.2"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Cream together butter and sugar."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add eggs one at a time beating well after each."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sift together flour and baking powder."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Gradually add to the creamed mixture blending well."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Stir 2 tsp baking soda into sour cream."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add to mixture and blend well."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Stir in nuts."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Pour approx."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "1/3 of batter into greased and floured tube or bundt pan."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Mix cinnamon& 3 Tbsp sugar."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sprinkle half of cinnamon and sugar mixture over batter."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Swirl with a knife."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Repeat with remaining batter and sugar mixture, ending with batter."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Bake at 350 for 1 hour."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cool for 10 minutes."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Remove from pan and cool completely."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Dust with confectioners sugar."
+            }
+        ],
+        "recipeYield": "1 bundt cake",
+        "imagelocal": "cinnamon_nut_cake.webp"
+    },
+    "katos-golden-spice-cake-88856": {
+        "id": "88856",
+        "name": "Kato's Golden Spice Cake",
+        "author": "Baby Kato",
+        "cookTime": "PT50M",
+        "prepTime": "PT15M",
+        "totalTime": "PT1H5M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/88/85/6/B5wLkLcRQ9wvhL0POyCw_golden-spice-cake-1.jpg",
+        "recipeCategory": "Dessert",
+        "keywords": "< 4 Hours",
+        "recipeIngredient": [
+            "2 1/2  cups    flour",
+            "2 1/2  teaspoons    baking powder",
+            "1/2  teaspoon    baking soda",
+            "1/4  teaspoon    salt",
+            "2   teaspoons    ground cinnamon",
+            "1/2  teaspoon    ground cloves",
+            "1/4  teaspoon    ground ginger",
+            "1/4  teaspoon    ground cardamom",
+            "1/4  teaspoon    ground nutmeg",
+            "1/4  teaspoon    ground allspice",
+            "1/4  teaspoon    ground mace",
+            "1/4  teaspoon    ground aniseed",
+            "1/4  teaspoon    ground celery seed",
+            "3/4  cup    shortening",
+            "1   cup    brown sugar",
+            "1 1/4  cups    sour cream or 1 1/4  cups    buttermilk",
+            "3   large    eggs",
+            "1   teaspoon    vanilla"
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "353.8",
+            "fatContent": "19.6",
+            "saturatedFatContent": "6.5",
+            "cholesterolContent": "59",
+            "sodiumContent": "222.8",
+            "carbohydrateContent": "40.3",
+            "fiberContent": "1.3",
+            "sugarContent": "18.8",
+            "proteinContent": "5.2"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Preheat oven to 350 degrees Add flour, baking powder, soda, salt and spices in large bowl and sift together."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cream shortening and sugar until light and fluffy."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add eggs one at a time, beating well. Now add in the vanilla."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add dry ingredients alternating with sour cream or buttermilk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "DO NOT OVER MIX-- Pour into greased 13 x 9 x 2&quot; pan and bake at 350 degrees for 40 - 50 minutes."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Spread with vanilla buttercream frosting."
+            }
+        ],
+        "recipeYield": "12 serving(s)",
+        "imagelocal": "kato's_golden_spice_cake.webp"
+    },
+    "glazed-cranberry-mini-cakes-341403": {
+        "id": "341403",
+        "name": "Glazed Cranberry Mini Cakes",
+        "author": "Mom2Rose",
+        "cookTime": "PT20M",
+        "prepTime": "PT10M",
+        "totalTime": "PT30M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/34/14/03/Z8Ve3nLrQeq5TEbpg5Sw_muffins-2.jpg",
+        "recipeCategory": "Dessert",
+        "keywords": "Berries,Fruit,Kid Friendly,Christmas,Thanksgiving,< 30 Mins,For Large Groups",
+        "recipeIngredient": [
+            "1/3  cup    butter or 1/3  cup    margarine, softened ",
+            "1/3  cup    granulated sugar",
+            "1/3  cup    light brown sugar, packed ",
+            "1       egg",
+            "1 1/4  teaspoons    vanilla extract",
+            "1 1/3  cups    all-purpose flour",
+            "3/4  teaspoon    baking powder",
+            "1/4  teaspoon    baking soda",
+            "1/4  teaspoon    salt",
+            "2   tablespoons    milk",
+            "1 1/4  cups    fresh cranberries, coarsely chopped ",
+            "1/2  cup    walnuts, coarsely chopped ",
+            "1 2/3  cups   hershey's premier white chocolate chips, divided ",
+            "2   tablespoons    vegetable oil"
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "111.1",
+            "fatContent": "6.3",
+            "saturatedFatContent": "2.9",
+            "cholesterolContent": "11.4",
+            "sodiumContent": "57.7",
+            "carbohydrateContent": "12.8",
+            "fiberContent": "0.4",
+            "sugarContent": "8.7",
+            "proteinContent": "1.4"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Heat oven to 350&deg;F \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Lightly grease or paper-line small muffin cups (1-3/4 inches in diameter). \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Beat butter, granulated sugar, brown sugar, egg and vanilla extract in large bowl until light and fluffy. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Stir together flour, baking powder, baking soda and salt; gradually mix into butter mixture. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add milk; stir until blended. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Stir in cranberries, walnuts and 2/3 cup white chips (reserve remaining chips for glaze). \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Fill muffin cups about 7/8 full with batter. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Bake 18 to 20 minutes or until wooden pick inserted in center comes out clean. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cool 5 minutes; remove from pans to wire rack. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cool completely. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "To prepare the white glaze: place remaining 1 cup white chips in small microwave-safe bowl; sprinkle vegetable oil over chips. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Microwave at MEDIUM (50%) 30 seconds; stir. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "If necessary, microwave at MEDIUM an additional 30 seconds or just until chips are melted when stirred.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Drizzle white glaze over top of mini-cakes. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Refrigerate 10 minutes to set glaze."
+            }
+        ],
+        "recipeYield": "36 mini cakes, 36 serving(s)",
+        "imagelocal": "glazed_cranberry_mini_cakes.webp"
+    },
+    "flourless-hazelnut-chocolate-cake-gluten-free-513224": {
+        "id": "513224",
+        "name": "Flourless Hazelnut Chocolate Cake (Gluten-Free)",
+        "author": "InnerHarmonyNutriti",
+        "cookTime": "PT30M",
+        "prepTime": "PT20M",
+        "totalTime": "PT50M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/51/32/24/oopMvqCNRc6pgzWxStWO-Hazelnut-Flourless-Chocolate-Cake-2.jpg",
+        "recipeCategory": "Dessert",
+        "keywords": "Free Of...,< 60 Mins",
+        "recipeIngredient": [
+            "2 2/3  ounces    dark chocolate",
+            "5   tablespoons    unsalted butter",
+            "4       eggs, separated ",
+            "2/3  cup    coconut sugar (or other natural sugar)",
+            "1/2  cup    hazelnut meal (or bleached hazelnuts ground in a food processor)",
+            "1/3  cup    unsweetened cocoa powder",
+            "2   tablespoons    brandy (optional) or 2   tablespoons    rum (optional)",
+            "  powdered sugar, for topping "
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "155.5",
+            "fatContent": "15.1",
+            "saturatedFatContent": "8.7",
+            "cholesterolContent": "112.1",
+            "sodiumContent": "39.5",
+            "carbohydrateContent": "5.1",
+            "fiberContent": "2.8",
+            "sugarContent": "0.2",
+            "proteinContent": "5.2"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Melt chocolate and butter in a double boiler. Set aside."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Preheat the oven to 350&deg;F/360&deg;C degrees."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Whip egg whites until a stiff peak forms. Set aside."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "In another bowl, mix egg yolks and sugar. Add the chocolate and butter mixture and mix."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Mix in the hazelnut meal, cocoa powder, and liquor (if using) and mix."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Fold in the egg whites and mix. Pour in a 7-inch springform pan."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Bake for 30 minutes."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cool and refrigerate for several hours or overnight. Sprinkle powdered sugar on top using a small strainer."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Infuse love, slice and serve!"
+            }
+        ],
+        "recipeYield": "1 7-inch cake, 8 serving(s)",
+        "imagelocal": "flourless_hazelnut_chocolate_cake_(gluten-free).webp"
+    },
+    "white-chocolate-layer-cake-with-cranberry-filling-400563": {
+        "id": "400563",
+        "name": "White Chocolate Layer Cake With Cranberry Filling",
+        "author": "Annacia",
+        "cookTime": "PT30M",
+        "prepTime": "PT45M",
+        "totalTime": "PT1H15M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/40/05/63/VQTxoGqBTW6n0i77LAt1_22%20(1%20of%201).jpg",
+        "recipeCategory": "Dessert",
+        "keywords": "Christmas,For Large Groups,< 4 Hours",
+        "recipeIngredient": [
+            "1 (12   ounce) package   fresh cranberries",
+            "1 1/4  cups    granulated sugar",
+            "1/4  cup    cranberry juice",
+            "2   teaspoons   finely shredded orange peel",
+            "2   teaspoons    lemon juice",
+            "1/4  teaspoon    ground cinnamon",
+            "1/8  teaspoon    ground ginger",
+            "1/8  teaspoon    ground cloves",
+            "8   ounces    white baking chocolate, chopped ",
+            "2 1/4  cups    all-purpose flour",
+            "2 1/4  teaspoons    baking powder",
+            "1/4  teaspoon    salt",
+            "10   tablespoons    butter, softened ",
+            "1 1/3  cups    granulated sugar",
+            "4       eggs",
+            "1 1/2  teaspoons    vanilla",
+            "1 1/4  cups    milk",
+            "12   ounces    white baking chocolate, chopped ",
+            "1   cup    butter, softened ",
+            "2   teaspoons    vanilla",
+            "2   cups    powdered sugar"
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "650.5",
+            "fatContent": "32.2",
+            "saturatedFatContent": "19.6",
+            "cholesterolContent": "106.2",
+            "sodiumContent": "312.7",
+            "carbohydrateContent": "86.5",
+            "fiberContent": "1.7",
+            "sugarContent": "69.5",
+            "proteinContent": "6.4"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "FILLING:.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "In a medium saucepan, combine cranberries, the 1-1/4 cups granulated sugar, the cranberry juice, orange peel, lemon juice, cinnamon, ginger, and cloves. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Bring to boiling; reduce heat. Simmer, uncovered, about 10 minutes or until thickened. Transfer filling to a medium bowl. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cover and chill for 2 hours. Transfer to a blender or food processor. Cover and blend or process until smooth. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "CAKE:.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Meanwhile, preheat oven to 350 degrees F. Grease the bottoms of two 9x1 1/2-inch round cake pans. Line bottoms of pans with waxed paper; grease and lightly flour pans. Set aside. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "In a medium saucepan, cook and stir the 8 ounces white chocolate over low heat until melted. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "In a medium bowl, combine flour, baking powder, and salt, set aside. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "In a large bowl, beat the 10 tablespoons butter with an electric mixer on medium to high speed for 30 seconds. Gradually add the 1 1/3 cups granulated sugar, beating until combined. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add eggs one at a time, beating after each addition. Beat in the 1 1/2 teaspoons vanilla. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Alternately add flour mixture and milk to butter mixture, beating on low speed after each addition just until combined. Beat in melted white chocolate just until combined. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Spread batter in the prepared cake pans. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Bake about 30 minutes or until a toothpick inserted in the centers comes out clean. Cool cake layers in pans on wire racks for 10 minutes. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Remove layers from pans. Peel off waxed paper. Cool completely on wire racks. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "FROSTING:.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "In a medium saucepan, cook and stir the 12 ounces white chocolate over low heat until melted. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cool for 20 minutes. In a large bowl, beat the 1 cup butter on medium to high speed until fluffy. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Beat in melted white chocolate and the 2 teaspoons vanilla. Gradually beat in powdered sugar. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "ASSEMBLY:.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Use a long serrated knife to cut each cake layer in half horizontally. Place one layer, cut side up, on a serving plate. Spread with one-third of the filling. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Top with the second layer; spread with one-third of the filling. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Top with the third layer; spread with the remaining filling.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Top with the fourth layer, cut side down. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Spread top and side of cake with frosting. If desired, cover loosely and chill for up to 24 hours. Let stand about 30 minutes at room temperature before serving, if chilled. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Makes 16 servings."
+            }
+        ],
+        "recipeYield": "16 serving(s)",
+        "imagelocal": "white_chocolate_layer_cake_with_cranberry_filling.webp"
+    },
+    "cheesecake-factory-carrot-cake-cheesecake-114575": {
+        "id": "114575",
+        "name": "Cheesecake Factory Carrot Cake Cheesecake",
+        "author": "MissMeagan",
+        "cookTime": "PT1H",
+        "prepTime": "PT20M",
+        "totalTime": "PT1H20M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/11/45/75/4jsBdqbQ5KN7mHDNRxot_0S9A7264.jpg",
+        "recipeCategory": "Cheesecake",
+        "keywords": "Dessert,Christmas,< 4 Hours",
+        "recipeIngredient": [
+            "16   ounces    cream cheese (at room temp)",
+            "3/4  cup    granulated sugar",
+            "1   tablespoon    flour",
+            "3       eggs",
+            "1   teaspoon    vanilla",
+            "3/4  cup    vegetable oil",
+            "1   cup    granulated sugar",
+            "2       eggs",
+            "1   teaspoon    vanilla",
+            "1   cup    flour",
+            "1   teaspoon    baking soda",
+            "1   teaspoon    cinnamon",
+            "1   dash    salt",
+            "1 (8 1/2  ounce) can   crushed pineapple, well drained with juice reserved ",
+            "1   cup   grated carrot",
+            "1/2  cup    flaked coconut",
+            "1/2  cup   chopped walnuts",
+            "2   ounces    cream cheese, softened ",
+            "1   tablespoon    butter, softened ",
+            "1 3/4  cups    powdered sugar",
+            "1/2  teaspoon    vanilla",
+            "1   tablespoon   reserved pineapple juice"
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "593.8",
+            "fatContent": "35.5",
+            "saturatedFatContent": "12.5",
+            "cholesterolContent": "126.9",
+            "sodiumContent": "311.3",
+            "carbohydrateContent": "64.1",
+            "fiberContent": "1.6",
+            "sugarContent": "52.8",
+            "proteinContent": "7.3"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "To make cheesecake,"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "In large bowl of electric mixer, beat together 2 pkgs cream cheese and 3/4 cup sugar until smooth."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Beat in 1 tablespoon flour, 3 eggs and 2 teaspoons vanilla until smooth. Set aside."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Meanwhile prepare Carrot Cake: In large bowl, combine oil, 1 cup sugar, 2 eggs and 1 teaspoon vanilla, blending thoroughly."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Stir in 1 cup flour, baking soda, cinnamon and dash salt, mixing well."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Stir in drained pineapple, carrots, coconut and walnuts."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Spread 1 1/2 cups carrot cake batter over bottom of greased 9-or 9 1/2-inch springform pan."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Drop large spoonfuls of cream cheese batter over carrot cake batter; top with large spoonfuls of remaining carrot cake batter."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Repeat with remaining cream cheese batter, spreading evenly with a knife."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Do not marble with a knife."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Bake in preheated 350 degree oven 50 to 65 minutes or until cake is set and cooked through."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cool to room temperature, then refrigerate."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "When cake is cold, prepare Pineapple Cream Cheese Frosting."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "In a bowl of electric mixer, combine 2 oz cream cheese, butter, powdered sugar, 1/2 teaspoon vanilla, 1 tablespoon reserved pineapple juice and dash of salt."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Beat until smooth and of spreading consistency."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Frost top of cheesecake."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Refrigerate 3 to 4 hours before serving."
+            }
+        ],
+        "recipeYield": "12 serving(s)",
+        "imagelocal": "cheesecake_factory_carrot_cake_cheesecake.webp"
+    },
+    "cappuccino-cheesecake-31083": {
+        "id": "31083",
+        "name": "Cappuccino Cheesecake",
+        "author": "yooper",
+        "cookTime": "PT1H5M",
+        "prepTime": "PT7H",
+        "totalTime": "PT8H5M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/31/08/3/pic5uH7J5.jpg",
+        "recipeCategory": "Cheesecake",
+        "keywords": "Dessert,Cheese,European,Kid Friendly,Potluck,Christmas,Thanksgiving,Weeknight,Oven,Refrigerator,Easy",
+        "recipeIngredient": [
+            "8      whole graham crackers, crushed ",
+            "5   tablespoons   melted unsalted butter",
+            "1 1/2  cups    sugar",
+            "1/2  cup    whipping cream",
+            "4   teaspoons    instant espresso powder or 4   teaspoons    instant coffee powder",
+            "1 1/2  teaspoons    vanilla extract",
+            "4 (8   ounce) packages   cream cheese, room temperature ",
+            "4   large    eggs",
+            "2   tablespoons    all-purpose flour",
+            "1   cup    semi-sweet chocolate chips",
+            "  chocolate, shaved into curls  (optional)"
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "550",
+            "fatContent": "40.7",
+            "saturatedFatContent": "23",
+            "cholesterolContent": "171.6",
+            "sodiumContent": "295.4",
+            "carbohydrateContent": "42.2",
+            "fiberContent": "1",
+            "sugarContent": "36.6",
+            "proteinContent": "7.9"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Preheat oven to 350&deg;F."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Mix crackers, butter and 1/4 cup sugar in medium bowl; press onto bottom (not sides) of a 9-inch springform pan with 2 3/4-inch high sides."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Bake crust 10 minutes."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cool."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Maintain oven temperature."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Combine cream, espresso powder or coffee and vanilla in small bowl; set aside."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Using electric mixer, beat cream cheese in large bowl until smooth."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Gradually beat in remaining 1 1/4 cups sugar, then eggs 1 at a time."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Beat in flour."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Stir espresso mixture until power dissolves, beat into cream cheese mixture."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Stir in chocolate chips."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Pour batter over crust."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Bake cake until edges are puffed and beginning to crack and center is just set, about 1 hour 5 minutes."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cool on rack for 30 minutes; chill, uncovered for 6 hours."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cut around cake to loosen."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Release pan sides."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Top with chocolate curls, if desired."
+            }
+        ],
+        "recipeYield": "12 serving(s)",
+        "imagelocal": "cappuccino_cheesecake.webp"
+    },
+    "chocolate-truffle-cheesecake-death-by-chocolate-77427": {
+        "id": "77427",
+        "name": "Chocolate Truffle Cheesecake (Death by Chocolate!)",
+        "author": "WJKing",
+        "cookTime": "PT50M",
+        "prepTime": "PT30M",
+        "totalTime": "PT1H20M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/77/42/7/lvhVKzd0QhWlNpCeBqAk_Choc%20cheesecake%20SITE-3.jpg",
+        "recipeCategory": "Cheesecake",
+        "keywords": "Dessert,Christmas,Thanksgiving,Sweet,Weeknight,Mixer,Oven,Small Appliance,< 4 Hours",
+        "recipeIngredient": [
+            "1 1/2  cups    chocolate wafer crumbs",
+            "2   tablespoons    sugar",
+            "1/4  cup    butter or 1/4  cup    margarine, melted ",
+            "1/4  cup    semi-sweet chocolate chips",
+            "1/4  cup    heavy whipping cream",
+            "24   ounces    cream cheese, softened ",
+            "1   cup    sugar",
+            "1/3  cup    baking cocoa",
+            "3       eggs",
+            "1   teaspoon    vanilla",
+            "1 1/2  cups    semi-sweet chocolate chips",
+            "1/4  cup    heavy whipping cream",
+            "1   teaspoon    vanilla",
+            " mini milk chocolate kiss (optional)"
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "538.6",
+            "fatContent": "37.8",
+            "saturatedFatContent": "21.2",
+            "cholesterolContent": "133",
+            "sodiumContent": "337.7",
+            "carbohydrateContent": "48.7",
+            "fiberContent": "2.7",
+            "sugarContent": "38.2",
+            "proteinContent": "7.6"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "In a small bowl, combine cookie crumbs and sugar; stir in butter."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Press onto the bottom and 1 1/2 in. up the sides of a greased 9 inch springform pan"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Bake at 350 for 10 minutes."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cool on a wire rack."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Reduce heat to 325."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "In a saucepan over low heat, melt chocolate chips; stir until smooth."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Remove from the heat; add cream and mix well; set aside."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "In a mixing bowl, beat cream cheese and sugar until smooth."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add cocoa and beat well."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add eggs; beat on low just until combined."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Stir in vanilla and reserved chocolate mixture just until blended."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Pour over crust."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Bake for 45-50 minutes or until center is almost set."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "For topping, melt chocolate chips in a saucepan over low heat, stirring until smooth."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Remove from the heat."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Stir in cream and vanilla; mix well."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Spread over filling."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Refrigerate overnight."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Carefully run a knife around the edge of the pan to loosen."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Remove the sides of the pan."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Just before serving, garnish with whipped cream and miniature chocolate kisses if desired."
+            }
+        ],
+        "recipeYield": "12 serving(s)",
+        "imagelocal": "chocolate_truffle_cheesecake_(death_by_chocolate!).webp"
+    },
+    "easiest-black-forest-cake-51521": {
+        "id": "51521",
+        "name": "Easiest Black Forest Cake",
+        "author": "Karen=^..^=",
+        "cookTime": "PT45M",
+        "prepTime": "PT30M",
+        "totalTime": "PT1H15M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/51/52/1/yM30cwdATNifkApdg31O_0S9A3393.jpg",
+        "recipeCategory": "Dessert",
+        "keywords": "Lunch/Snacks,Fruit,Low Protein,Kid Friendly,Potluck,Christmas,Hanukkah,Weeknight,< 4 Hours,Easy,Inexpensive",
+        "recipeIngredient": [
+            "1 (18   ounce) box   devil's food cake mix, baked as directed in 9 x 13 inch pan and left in pan ",
+            "3       eggs (or as called for by your cake mix)",
+            "1/3  cup    oil (or as called for by your cake mix)",
+            "1 1/3  cups    water (or as called for by your cake mix)",
+            "1 (8   ounce) container   Cool Whip, thawed ",
+            "1   tablespoon    almond extract",
+            "2   tablespoons    vanilla extract",
+            "1 (5 1/8  ounce) box   instant vanilla pudding, prepared as directed  (use gelatin-free version to make vegetarian)",
+            "1 (21   ounce) can   cherry pie filling",
+            "  chocolate sprinkles",
+            "  maraschino cherry"
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "425.8",
+            "fatContent": "18.8",
+            "saturatedFatContent": "6.7",
+            "cholesterolContent": "46.5",
+            "sodiumContent": "558.2",
+            "carbohydrateContent": "61.1",
+            "fiberContent": "1.3",
+            "sugarContent": "32.4",
+            "proteinContent": "4.5"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Mix cherry pie filling and almond extract."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "While cake is still warm, poke top all over with fork and spread the  cherry filling mixture all over the top."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "When you prepare vanilla pudding, make it as directed on box, but add the vanilla extract to it with the milk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Fold Cool Whip into pudding."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Spread pudding mixture over cake, covering the cherry pie filling."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Decorate with chocolate sprinkles and cherries."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Chill until serving time."
+            }
+        ],
+        "recipeYield": "12-16 serving(s)",
+        "imagelocal": "easiest_black_forest_cake.webp"
+    },
+    "cranberry-upside-down-cake-80966": {
+        "id": "80966",
+        "name": "Cranberry Upside-Down Cake",
+        "author": "Mooseybear",
+        "cookTime": "PT35M",
+        "prepTime": "PT20M",
+        "totalTime": "PT55M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/80/96/6/BlnwxtgASQGEcUoKZApH_Cranberrycake2.jpg",
+        "recipeCategory": "Breads",
+        "keywords": "Dessert,Fruit,Winter,Christmas,Sweet,Brunch,< 60 Mins,Oven,Easy",
+        "recipeIngredient": [
+            "8   tablespoons    unsalted butter, at room temperature divided ",
+            "1   cup    sugar, divided ",
+            "1/2  teaspoon    ground cinnamon",
+            "1/4  teaspoon    allspice",
+            "1   teaspoon    orange zest (optional)",
+            "1 3/4  cups    cranberries, fresh or frozen ",
+            "1       egg",
+            "1   teaspoon    vanilla extract",
+            "1 1/4  cups    all-purpose flour",
+            "1 1/2  teaspoons    baking powder",
+            "1/4  teaspoon    salt",
+            "1/2  cup    milk"
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "300.9",
+            "fatContent": "12.9",
+            "saturatedFatContent": "7.9",
+            "cholesterolContent": "55.9",
+            "sodiumContent": "159.8",
+            "carbohydrateContent": "43.8",
+            "fiberContent": "1.6",
+            "sugarContent": "26",
+            "proteinContent": "3.5"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Preheat oven to 350 degrees farenheit."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Rub the bottom and sides of an 8-inch round pan with 2 Tablespoons of the butter."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "In a small bowl, mix together 1/2 cup of the sugar, the cinnamon, allspice and orange zest."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sprinkle this mixture evenly over the bottom of the pan, then arrange cranberries in a single layer on top."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cream remaining 6 tablespoons of butter and 1/2 cup sugar until light and fluffy."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add egg and vanilla and mix until well combined."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "In another bowl, sift together flour, baking powder and salt."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add this to the egg and sugar mixture in several batches, alternating with with milk, until well combined."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Spoon batter over cranberries, and even out the top."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Bake on center rack of the oven until a toothpick inserted to the center of the batter comes out clean, 30-35 minutes."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Let cool for 20 minutes, then run a kinfe around the edge of the cake."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Place a platter over the top of the baking pan, and turn cake out onto platter."
+            }
+        ],
+        "recipeYield": "8 serving(s)",
+        "imagelocal": "cranberry_upside-down_cake.webp"
+    },
+    "ultimate-irish-apple-cake-138983": {
+        "id": "138983",
+        "name": "Ultimate Irish Apple Cake",
+        "author": "LAURIE",
+        "cookTime": "PT45M",
+        "prepTime": "PT15M",
+        "totalTime": "PT1H",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/13/89/83/fLuAJIF6Rlu8cxx4TzWp_apple%20cake-6.jpg",
+        "recipeCategory": "Dessert",
+        "keywords": "Apple,Fruit,European,Low Protein,Healthy,Brunch,< 60 Mins,Oven,Easy,Inexpensive",
+        "recipeIngredient": [
+            "4   tablespoons    butter, softened  (room temperature)",
+            "1   cup    granulated sugar",
+            "1       egg, beaten  (room temperature)",
+            "4       granny smith apples, cored, peeled and diced  (2 cups)",
+            "1/4  cup   chopped walnuts",
+            "1   teaspoon    vanilla extract",
+            "1/2  teaspoon    baking powder",
+            "1/2  teaspoon    baking soda",
+            "1/2  teaspoon    salt",
+            "1/2  teaspoon    ground cinnamon",
+            "1/2  teaspoon    ground nutmeg",
+            "1   cup    all-purpose flour"
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "230",
+            "fatContent": "7.3",
+            "saturatedFatContent": "3.3",
+            "cholesterolContent": "30.8",
+            "sodiumContent": "246.3",
+            "carbohydrateContent": "40.3",
+            "fiberContent": "2.4",
+            "sugarContent": "27.7",
+            "proteinContent": "2.6"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Preheat oven to 350&deg;F \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Generously grease an 8-inch square cake pan. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "In a large bowl, cream the butter and sugar together until light and fluffy. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add the egg, apples, nuts, and vanilla and stir well. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sift in the dry ingredients and mix well. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Pour the batter into the prepared pan and bake about 45 minutes, until the cake is lightly browned and a toothpick inserted into the center comes out clean. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Remove from oven and let the cake set in the pan for 5 minutes, then remove from pan. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Serve warm or at room temperature with whipped cream or vanilla ice cream."
+            }
+        ],
+        "recipeYield": "10-12 serving(s)",
+        "imagelocal": "ultimate_irish_apple_cake.webp"
+    },
+    "phenomenal-carrot-cake-108615": {
+        "id": "108615",
+        "name": "Phenomenal Carrot Cake",
+        "author": "Mel T",
+        "cookTime": "PT45M",
+        "prepTime": "PT10M",
+        "totalTime": "PT55M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/10/86/15/v8VQxGdRQKRIffevKXHg_carrot-cake-1.jpg",
+        "recipeCategory": "Dessert",
+        "keywords": "< 60 Mins,For Large Groups,Easy,Inexpensive",
+        "recipeIngredient": [
+            "3       eggs",
+            "1 1/2  cups    sugar",
+            "1   cup    vegetable oil",
+            "2   teaspoons    vanilla extract",
+            "2   cups   shredded carrots",
+            "10   ounces    crushed pineapple in juice",
+            "1   cup   shredded sweetened coconut",
+            "2 1/2  cups    flour",
+            "2   teaspoons    baking soda",
+            "1   teaspoon    salt"
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "341.8",
+            "fatContent": "17.3",
+            "saturatedFatContent": "3.7",
+            "cholesterolContent": "37.2",
+            "sodiumContent": "365.8",
+            "carbohydrateContent": "43.6",
+            "fiberContent": "1.8",
+            "sugarContent": "25.8",
+            "proteinContent": "3.8"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Preheat oven to 350&deg;F."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Spray a 9 x 13 pan with nonstick spray."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "In large bowl, beat eggs and gradually add sugar."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Continue beating and add oil and vanilla."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add carrots, pineapple, and coconut."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sift flour, baking soda, and salt together."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add flour mixture to wet ingredients and mix well."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Pour batter into prepared pan."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Bake for 45 minutes, or until the top is golden brown and a cake tester comes out clean."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Let cool before frosting."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Note: This recipe works just as well for muffins!"
+            }
+        ],
+        "recipeYield": "1 cake, 15 serving(s)",
+        "imagelocal": "phenomenal_carrot_cake.webp"
+    },
+    "the-only-chocolate-cake-recipe-youll-ever-need-devils-food-26370": {
+        "id": "26370",
+        "name": "The Only Chocolate Cake Recipe You'll Ever Need! (Devil's Food)",
+        "author": "Karen=^..^=",
+        "cookTime": "PT45M",
+        "prepTime": "PT30M",
+        "totalTime": "PT1H15M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/26/37/0/bzwUWgTTGZ83fb1AbjMQ_CC%208%20-%20final_6.jpg",
+        "recipeCategory": "Dessert",
+        "keywords": "Kid Friendly,Potluck,Weeknight,For Large Groups,Oven,< 4 Hours",
+        "recipeIngredient": [
+            "2   cups    all-purpose flour",
+            "1   teaspoon    salt",
+            "1   teaspoon    baking powder",
+            "2   teaspoons    baking soda",
+            "3/4  cup    unsweetened cocoa powder",
+            "2   cups    sugar",
+            "1   cup    vegetable oil",
+            "1   cup    hot coffee",
+            "1   cup    milk",
+            "2   large    eggs",
+            "1   teaspoon    vanilla",
+            "1   cup    milk",
+            "5   tablespoons    all-purpose flour",
+            "1/2  cup    butter, softened ",
+            "1/2  cup    shortening",
+            "1   cup    sugar",
+            "1   teaspoon    vanilla"
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "477.9",
+            "fatContent": "28.2",
+            "saturatedFatContent": "8.2",
+            "cholesterolContent": "42.8",
+            "sodiumContent": "401.8",
+            "carbohydrateContent": "55.1",
+            "fiberContent": "1.8",
+            "sugarContent": "37.6",
+            "proteinContent": "4.5"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Preheat oven to 325&deg;F."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "In a large mixing bowl, sift together dry ingredients. Add oil, coffee and milk and mix at medium speed for 2 minutes. Add eggs and vanilla and beat 2 more minutes. Expect batter to be thin."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Pour into a 9&quot; x 13&quot; greased and floured pan or 2- 9&quot; round pans. Bake 9 x 13 pan for about 45 minutes or 9&quot; pans for about 30 minutes. Cool in pans for about 15 minutes and then cool completely on racks."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "While cake is cooling make the icing: Combine the milk and flour in a saucepan and cook over low heat until thick, whisking constantly. Cover and refrigerate until chilled."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "In a medium bowl, beat butter, shortening, sugar and vanilla until creamy. Add chilled milk and flour mixture and beat for 10 minutes. Frost cooled cake and enjoy! The frosting sounds intimidating, but it is worth it! By the way, for some reason, we prefer this cake chilled, right out of the refrigerator. The rich chocolate and cool frosting just seem to taste best this way."
+            }
+        ],
+        "recipeYield": "16 serving(s)",
+        "imagelocal": "the_only_chocolate_cake_recipe_you'll_ever_need!_(devil's_food).webp"
+    },
+    "pecan-pie-cake-86946": {
+        "id": "86946",
+        "name": "Pecan Pie Cake",
+        "author": "Boyz 5",
+        "cookTime": "PT1H5M",
+        "prepTime": "PT15M",
+        "totalTime": "PT1H20M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/86/94/6/ZacZwnivSsOWRjyV9go5_PPC%206%20final%20-%20pecan%20pie%20cake_.jpg",
+        "recipeCategory": "Dessert",
+        "keywords": "Fruit,Nuts,Sweet,Brunch,Oven,< 4 Hours",
+        "recipeIngredient": [
+            "1 (18   ounce) box   yellow cake mix",
+            "1       egg",
+            "1/2  cup   melted butter",
+            "1 1/2  cups    light corn syrup",
+            "3       eggs",
+            "1/2  cup    dark brown sugar, packed ",
+            "1   teaspoon    vanilla",
+            "1 1/2  cups    pecans"
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "526.3",
+            "fatContent": "24.1",
+            "saturatedFatContent": "7",
+            "cholesterolContent": "83.2",
+            "sodiumContent": "400.1",
+            "carbohydrateContent": "77",
+            "fiberContent": "1.8",
+            "sugarContent": "39.4",
+            "proteinContent": "5.3"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Combine cake mix, 1 egg, and melted butter together; set aside 2/3 cup of this batter."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Spread the rest into a greased and floured 9 by 13-inch baking pan and bake at 325 degrees Fahrenheit for 15 minutes until lightly browned."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Mix reserved 2/3 cup batter with syrup, 3 eggs, brown sugar, vanilla and pecans."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Pour this filling on top of crust and cook for 50 to 60 minutes at 325 degrees Fahrenheit or until set."
+            }
+        ],
+        "recipeYield": "1 cake, 12 serving(s)",
+        "imagelocal": "pecan_pie_cake.webp"
+    },
+    "easy-no-bake-white-chocolate-cheesecake-64121": {
+        "id": "64121",
+        "name": "Easy No Bake White Chocolate Cheesecake",
+        "author": "Junebug",
+        "cookTime": "PT2H",
+        "prepTime": "PT15M",
+        "totalTime": "PT2H15M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/64/12/1/2LaQJboaTiG4oix8uiXo_DSC_0476.JPG",
+        "recipeCategory": "Cheesecake",
+        "keywords": "Dessert,Weeknight,< 4 Hours",
+        "recipeIngredient": [
+            "1   cup    white chocolate chips",
+            "2 (8   ounce) packages   cream cheese, cubed & softened ",
+            "1 (8   ounce) carton   Cool Whip",
+            "1      9 inch crumb pie crust, any flavor ",
+            "  raspberries or   blueberries, with sweetened juice "
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "4101.5",
+            "fatContent": "327.3",
+            "saturatedFatContent": "185",
+            "cholesterolContent": "535.5",
+            "sodiumContent": "2603.4",
+            "carbohydrateContent": "253.6",
+            "fiberContent": "6.9",
+            "sugarContent": "167.5",
+            "proteinContent": "50.8"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Melt chocolate chips and stir until smooth."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Remove from heat and stir in cream cheese until smooth."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Fold in the cool whip until well blended."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Pour into pie crust."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cover and refrigerate until set or overnight."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Serve with your choice of berries on top, preferably with some berry juice, as on shortcake."
+            }
+        ],
+        "recipeYield": "1 pie",
+        "imagelocal": "easy_no_bake_white_chocolate_cheesecake.webp"
+    },
+    "starter-for-friendship-fruitcake-40993": {
+        "id": "40993",
+        "name": "Starter for Friendship Fruitcake",
+        "author": "ciao4293",
+        "cookTime": "",
+        "prepTime": "PT720H",
+        "totalTime": "PT720H",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/40/99/3/picYzUCit.jpg",
+        "recipeCategory": "Yeast Breads",
+        "keywords": "Quick Breads,Breads,Fruit,Low Protein,Low Cholesterol,Healthy,Christmas,Weeknight,No Cook,Easy,Inexpensive",
+        "recipeIngredient": [
+            "3/4  cup   canned peach slices in heavy syrup",
+            "3/4  cup   canned pineapple chunks in syrup",
+            "4   ounces    red maraschino cherries, drained, halved ",
+            "1 1/2  cups    granulated sugar",
+            "1 (1/4  ounce) package   active dry yeast"
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "319.1",
+            "fatContent": "0.2",
+            "saturatedFatContent": "0",
+            "cholesterolContent": "0",
+            "sodiumContent": "4",
+            "carbohydrateContent": "81.7",
+            "fiberContent": "2.1",
+            "sugarContent": "79.4",
+            "proteinContent": "0.9"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "In a 1-gallon glass jar with a wide mouth and lid, combine the peaches, pineapple, maraschino cherries, sugar and yeast (make sure the yeast is well mixed with syrup)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Stir mixture two times the first day."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Stir once a day afterward."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Do not refrigerate this mixture."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Keep loosely covered."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Two weeks after starting the starter, add 1/2 cup peaches and 1/2 cup pineapple with syrup."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Wait for several days, stirring daily, and drain 2 cups of mixed fruit and use to make cake as directed in the cake recipe."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Reserve 1 1/2 cups starter juice and leave in glass gallon jar."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Count this as Day One, and start the process for renewing the starter and making the cake."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "DAY 1: To reserved 1 1/2 cups starter juice (or to starter juice given you by a friend), add 2 1/2 cups sugar and a 2-lb can of peaches with syrup."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Stir daily."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Keep loosely covered."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Do not refrigerate."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "DAY 10: Add 2 1/2 cups granulated sugar, a 2 pound can pineapple chunks with juice."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Stir daily."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Keep loosely covered."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Do not refrigerate."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "DAY 20: Add 2 1/2 cups granulated sugar and 8 to 10 oz drained and halved maraschino cherries."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Stir daily."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Keep loosely covered."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Do not refrigerate."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "DAY 30: Drain fruit, reserving 1 1/2 cups juice for renewing starter."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Use drained fruit to make 3 cakes (see recipe), give excess starter juice to friends, and start a new batch of fruit (repeat aforementioned process)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "At the end of 30 days, you will have enough excess starter juice to give to about four friends."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Be sure to keep enough juice (1 1/2 cups) for your own starter."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "At the end of 30 days, there will be enough fruit to use 1 3/4 cups fruit in each cake, which makes the cake better and doesn't waste the fruit."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "The cakes can be frozen."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "It is not necessary to bake all three cakes the same day, but stir the remaining fruit mixture every day until it is used (this fruit mixture can be refrigerated until used)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "The drained fruit can be frozen until you are ready to bake the cakes."
+            }
+        ],
+        "recipeYield": "5 serving(s)",
+        "imagelocal": "starter_for_friendship_fruitcake.webp"
+    },
+    "peppermint-patty-poke-cake-185201": {
+        "id": "185201",
+        "name": "Peppermint Patty Poke Cake",
+        "author": "KelBel",
+        "cookTime": "PT30M",
+        "prepTime": "PT15M",
+        "totalTime": "PT45M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/18/52/01/picCFEmKq.jpg",
+        "recipeCategory": "Dessert",
+        "keywords": "Kid Friendly,Potluck,Sweet,< 60 Mins,For Large Groups,Easy,Inexpensive",
+        "recipeIngredient": [
+            "1 (18 1/2  ounce) box   fudge cake mix",
+            "1 1/4  cups    water",
+            "1/3  cup    vegetable oil",
+            "3       eggs",
+            "1 (4   ounce) box   instant white chocolate pudding and pie filling mix",
+            "2   cups    skim milk",
+            "1/2  teaspoon    peppermint extract",
+            "1   cup    granulated sugar",
+            "5   tablespoons    butter",
+            "1/3  cup    whole milk",
+            "1   cup    chocolate chips",
+            "1/2  teaspoon    peppermint extract"
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "363",
+            "fatContent": "18.7",
+            "saturatedFatContent": "6.7",
+            "cholesterolContent": "53.7",
+            "sodiumContent": "351.3",
+            "carbohydrateContent": "48",
+            "fiberContent": "1.5",
+            "sugarContent": "33.1",
+            "proteinContent": "5.3"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Heat oven to 350&ordm;. Make cake as with water, eggs and oil as directed on package for 9 x 13 pan (approx. 30 minutes); cool 15 minutes."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Poke top of warm cake every 1/4 inch with handle of wooden spoon.  In Medium bowl, beat filling ingredients with wire whisk about 2 minutes."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Immediately pour filling evenly into holes in cake. Cover loosely and refrigerate about 2 hours until chilled."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Place sugar, butter and milk in a medium-size saucepan over medium heat."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Stir until the mixture comes to a boil, 3-4 minutes.  Still stirring, let the mixture boil until the sugar dissolves, 1 minute.  Remove pan from heat."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Stir in chocolate chips, and continue to stir until chocolate has melted.  Cool 10 minutes.  Stir in peppermint extract."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Pour/spread frosting over cake top while still warm. (frosting will firm as it cools).  Chill at leat 30 minutes and store in the refrigerator."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Can be garnished with junior mint candies, crushed peppermint sticks, or mint chocolate chips."
+            }
+        ],
+        "recipeYield": "15 serving(s)",
+        "imagelocal": "peppermint_patty_poke_cake.webp"
+    },
+    "candy-apple-cake-104331": {
+        "id": "104331",
+        "name": "Candy Apple Cake",
+        "author": "Marie",
+        "cookTime": "PT30M",
+        "prepTime": "PT20M",
+        "totalTime": "PT50M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/10/43/31/picHVl0QM.jpg",
+        "recipeCategory": "Dessert",
+        "keywords": "Apple,Fruit,< 60 Mins",
+        "recipeIngredient": [
+            "1   cup    red-hot candies",
+            "1/2  cup    sugar",
+            "1/2  cup    apple juice",
+            "1/2  teaspoon    red food coloring",
+            "4       granny smith apples, cored and coarsely chopped ",
+            "1 (18 1/4  ounce) package   yellow cake mix",
+            "1 (3 1/2  ounce) package   instant vanilla pudding",
+            "2       eggs",
+            "1   cup    sour cream",
+            "1/2  cup    apple juice"
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "402.8",
+            "fatContent": "12",
+            "saturatedFatContent": "4.3",
+            "cholesterolContent": "53.5",
+            "sodiumContent": "506.1",
+            "carbohydrateContent": "70.9",
+            "fiberContent": "1.9",
+            "sugarContent": "49.9",
+            "proteinContent": "4.4"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Preheat oven to 350° and spray a 13x9 baking pan with non stick spray."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "In a large saucepan, combine the cinnamon candies, sugar, 1/2 cup of apple juice and food coloring and heat over high heat, stirring constantly until candy dissolves."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add apples and bring to a boil, reduce heat and stir occasionally for 5 to 7 minutes or until apples are tender."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Spoon filling into baking pan."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "In a medium bowl, combine all cake ingredients and mix well."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Spoon over the apple mixture, spreading to completely cover the apples."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Bake for 30 to 35 minutes or until a toothpick inserted in the center comes out clean."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Allow to cool slightly, then invert over a large serving platter."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cool completely, then cut into squares to serve."
+            }
+        ],
+        "recipeYield": "10-12 serving(s)",
+        "imagelocal": "candy_apple_cake.webp"
+    },
+    "simple-flourless-chocolate-and-chestnut-truffle-cake-with-fresh-398217": {
+        "id": "398217",
+        "name": "Simple Flourless Chocolate and Chestnut Truffle Cake With Fresh ",
+        "author": "robd16",
+        "cookTime": "PT1H",
+        "prepTime": "PT20M",
+        "totalTime": "PT1H20M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/39/82/17/picFAagkr.jpg",
+        "recipeCategory": "Dessert",
+        "keywords": "Free Of...,< 4 Hours",
+        "recipeIngredient": [
+            "200   g   good quality dark chocolate (70% cocoa)",
+            "200   g    butter",
+            "200   g   vacuum packed cooked and peeled chestnuts (or fresh)",
+            "200   g    sugar",
+            "200   ml    milk",
+            "3       eggs",
+            "1   tablespoon    brandy (optional)",
+            "2   teaspoons    pure vanilla extract",
+            "1   teaspoon   good quality instant coffee granules",
+            "200   ml    double cream (heavy)",
+            "2   tablespoons    confectioners' sugar (icing)",
+            "1   tablespoon    brandy (optional)",
+            "1   teaspoon    pure vanilla extract"
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "1226.5",
+            "fatContent": "95.7",
+            "saturatedFatContent": "58.4",
+            "cholesterolContent": "342.2",
+            "sodiumContent": "397.5",
+            "carbohydrateContent": "98",
+            "fiberContent": "9.6",
+            "sugarContent": "55.2",
+            "proteinContent": "16.1"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Preheat the oven to 150C \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Melt the chocolate and butter in a glass or ceramic bowl set over a pan of simmering water.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Meanwhile, put the rest of the cake ingredients into the blender and blend until completely smooth.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Prepare a cake pan (preferably a spring form) by greasing with butter and cutting out some greaseproof paper to fit the bottom.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Once the chocolate and butter have melted, pour into the blender with everything else (you may have to do this in 2 batches depending on the size of your blender).\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Blend well and pour into the prepared cake pan(s)  Bake for 1 hour (check after 45 minutes) when a toothpick inserted into the centre comes out dry it is ready.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Leave to cool in the pan then cover and transfer to the fridge.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Next day Whip the cream adding the brandy and sugar.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Turn the cake out, split and fill with cream. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Keep refrigerated until ready to serve."
+            }
+        ],
+        "recipeYield": "4-6 serving(s)",
+        "imagelocal": "simple_flourless_chocolate_and_chestnut_truffle_cake_with_fresh_.webp"
+    },
+    "grandmas-best-christmas-cake-489924": {
+        "id": "489924",
+        "name": "Grandma's Best Christmas Cake",
+        "author": "JoyfulCook",
+        "cookTime": "PT3H",
+        "prepTime": "PT45M",
+        "totalTime": "PT3H45M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/48/99/24/F2TsbTyPSamYYseXNAwU-DSC06876.JPG",
+        "recipeCategory": "Fruit",
+        "keywords": "Nuts,European,Winter,< 4 Hours,From Scratch",
+        "recipeIngredient": [
+            "10   ounces    currants",
+            "10   ounces    sultanas",
+            "7   ounces    raisins",
+            "5   ounces    glace cherries",
+            "4   ounces    blanched almonds",
+            "10   ounces    margarine",
+            "10   ounces    plain flour",
+            "5   ounces    white sugar",
+            "5   ounces    brown sugar",
+            "2   tablespoons   chunky marmalade",
+            "1   teaspoon    mixed spice",
+            "5       eggs",
+            "1   pinch    salt"
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "673",
+            "fatContent": "26.8",
+            "saturatedFatContent": "5.1",
+            "cholesterolContent": "77.5",
+            "sodiumContent": "291.2",
+            "carbohydrateContent": "106",
+            "fiberContent": "5",
+            "sugarContent": "75.8",
+            "proteinContent": "9.8"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Warm margarine to room temperature Cream the sugars and margarine until smooth and creamy. Add one egg at a time mixing one tablespoon of the flour between each egg (this prevents curdling)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Blanche Almonds if necessary then add ALL the ingredients EXCEPT the remaining flour stirring well then add the remaining flour folding in well."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Line an 8-9 inch metal cake tin with greaseproof paper place the mixture in making a bit of a dip in the middle, by doing this the cake will come out more even."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cook in a slow oven  150c for approx 3 hours check with a satay stick through the centre to see if its cooked then tip out onto a cake rack to cool."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "I usually cook this in the early afternoon and leave overnight to cool completely, just to make sure that there is no heat in the centre as once you wrap it up if there is, it will sweat and can make the cake go mouldy."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Wrap in two layers of Foil and keep in a cupboard. at the start of December prick the top of the cake lightly and dribble over a tot of Brandy, reseal and turn over two weeks later."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Mums idea:."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Line the tin as usual but also wrap brown paper around the outside tying it tightly with some string leaving the level of the paper higher than the cake so if necessary you can put some paper over the top to stop it browning too much toward the end of cooking."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cook this cake late October or Early November."
+            }
+        ],
+        "recipeYield": "12-14 serving(s)",
+        "imagelocal": "grandma's_best_christmas_cake.webp"
+    },
+    "mulled-wine-fruit-and-nut-christmas-cake-make-ahead-fruitcake-193383": {
+        "id": "193383",
+        "name": "Mulled Wine Fruit and Nut Christmas Cake: Make-Ahead Fruitcake",
+        "author": "French Tart",
+        "cookTime": "PT1M",
+        "prepTime": "PT48H",
+        "totalTime": "PT48H1M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/19/33/83/picFZrClX.jpg",
+        "recipeCategory": "Dessert",
+        "keywords": "Plums,Fruit,Nuts,European,Winter,Christmas",
+        "recipeIngredient": [
+            "18   fluid ounces    ruby port",
+            "1       cinnamon stick",
+            "6       cloves",
+            "1       nutmeg",
+            "1       orange, zest of, strips ",
+            "7   ounces    sultanas",
+            "7   ounces    currants",
+            "7   ounces    raisins",
+            "8   ounces   ready to eat prunes, chopped ",
+            "4   ounces    sliced almonds",
+            "4   ounces    glace cherries, quartered ",
+            "4   ounces    mixed peel",
+            "8   ounces   softened butter",
+            "8   ounces    soft brown sugar",
+            "4      organic eggs, beaten ",
+            "9   ounces    plain flour",
+            "1 1/2  teaspoons    cinnamon",
+            "2   teaspoons    mixed spice",
+            "1/2  teaspoon    ground cloves",
+            "1 1/2  teaspoons    ground ginger",
+            "1       orange, zest of, grated "
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "595.2",
+            "fatContent": "22.3",
+            "saturatedFatContent": "10.7",
+            "cholesterolContent": "111.1",
+            "sodiumContent": "155.4",
+            "carbohydrateContent": "97.4",
+            "fiberContent": "5.9",
+            "sugarContent": "65.1",
+            "proteinContent": "8.8"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "TWO DAYS BEFORE YOU BAKE:."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Gently heat up the port with the strips of orange peel &amp; all the mulled wine spices tied up in a muslin or cloth bag; you will need a large roomy saucepan as you will be adding the fruit to it later."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Bring it to the boil and then take off the heat and allow to cool slightly."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add all the fruit, prunes, peel &amp; nuts to the mulled wine port mixture, stir it well and cover with a lid."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Leave at room temperature, unless you live in a very hot climate in which case you will need to refrigerate it, for 2 days. I have left this for up to 4 days with no adverse effects!"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "THE DAY YOU BAKE THE CAKE:."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Pre-heat oven to 160 C or 320&deg;F."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Grease and double line with bakng paper/parchment a loose bottom deep cake tin; I used a 8&quot; diameter round tin with high sides."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Wrap the outside of the cake tin with a double layer of brown paper or baking paper/parchment &amp; tie with string - it stops the cake browning too quickly or too much and IS worth the effort!"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Beat the butter and sugar together until light &amp; fluffy."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add the flour bit by bit with the beaten eggs gradually - mix well in between each flour &amp; egg addition. This stops it curdling."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Drain the fruit &amp; nuts - any excess port can be kept for future soakings! Discard the mulled wine bag &amp; the strips of orange peel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add the fruit and nuts to the cake mixture &amp; mix well."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add the spices along with the grated peel of one orange and mix well with a wooden spoon."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Spoon the the cake mixture into the prepared tin and level the top."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Make a slight dip in the middle to allow for rising unevenly."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Bake for 30 minutes and then turn the oven down to 150 C or 300 F and bake for a further 1 1/2 to 1 3/4 hours or until an inserted skewer comes out clean."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Leave the cake to cool in the tin."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Remove from the tin and keep stored in an airtight container - well wrapped in the baking paper/parchment until Christmas."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Decorate it with traditional marzipan &amp; icing or a fruit and nut glaze - OR just remove from the paper, decorate with a frill and serve it from an attractive cake platter!"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "In Yorkshire where I come from, we would eat a slice of Christmas cake with a slice of Wensleydale Cheese!"
+            }
+        ],
+        "recipeYield": "12 slices, 12 serving(s)",
+        "imagelocal": "mulled_wine_fruit_and_nut_christmas_cake:_make-ahead_fruitcake.webp"
+    },
+    "decadently-rich-port-and-chocolate-christmas-cake-104270": {
+        "id": "104270",
+        "name": "Decadently Rich Port and Chocolate Christmas Cake",
+        "author": "Kookaburra",
+        "cookTime": "PT3H",
+        "prepTime": "PT1H",
+        "totalTime": "PT4H",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/10/42/70/piciZpVxB.jpg",
+        "recipeCategory": "Dessert",
+        "keywords": "Fruit,Australian,Christmas,Mixer,Small Appliance,< 4 Hours",
+        "recipeIngredient": [
+            "340   g   pitted prunes",
+            "375   g    currants",
+            "375   g    raisins",
+            "1 1/4  cups    port wine, plus ",
+            " additional port wine, for feeding the cake in the lead up to christmas ",
+            "250   g    butter, chopped ",
+            "1   tablespoon    vanilla essence",
+            "1   cup    dark brown sugar",
+            "4       eggs",
+            "1       orange, juice of",
+            "1       orange, zest of, finely grated ",
+            "1/3  cup    treacle",
+            "1 1/2  cups    plain flour",
+            "1/2  cup    self-raising flour",
+            "1   tablespoon    mixed spice",
+            "1   tablespoon    nutmeg",
+            "1   tablespoon    cinnamon",
+            "200   g    dark cooking chocolate, chopped ",
+            "250   g    glace cherries",
+            "200   g    walnuts, halved "
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "844.9",
+            "fatContent": "32.6",
+            "saturatedFatContent": "14",
+            "cholesterolContent": "106.5",
+            "sodiumContent": "277.5",
+            "carbohydrateContent": "132.9",
+            "fiberContent": "8.6",
+            "sugarContent": "93.5",
+            "proteinContent": "10.7"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "You will also need: Brown paper- enough to wrap a double layer around the cake tin."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Use a pair of scissors to cut up the prunes."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Combine prunes, currants, raisins and 1 cup of the port together in a large bowl and mix well."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Allow to stand for 2 hours, stirring occasionally."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Meanwhile, spray a deep 23cm-round (9\") cake tin with cooking oil, then line the base and sides of the tin with two layers of baking (silicone) paper- bringing the paper 5cm (2\") above the rim of the tin."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "When the fruit has been soaking for two hours, preheat the oven to a slow 160C (310F)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add the orange rind, juice and treacle to the fruit mixture and stir to combine."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Place the chopped chocolate, cherries and walnuts into a mixing bowl."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add the sifted flours and spices to this bowl and stir lightly to combine."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Now, chop the butter into smallish pieces and transfer to a small bowl."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Beat with an electric mixer until the colour of the butter changes to pale yellow."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add vanilla and beat for an extra minute."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add sugar and beat until the mixture looks light and creamy and all the sugar crystals have dissolved."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "(This is an important step- if the sugar crystals don't dissolve your cake will develop a crusty top)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add the eggs, one at a time, beating well after each addition."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add the butter and egg mixture to the fruit and mix well."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Next, add the flour mixture to the fruit, and stir lightly with a wooden spoon until just combined."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "(Do not beat the mixture or the cake will be tough- a light hand ensures a good cake)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Call in the family and have everyone give the cake a stir while they make a Christmas wish."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Spoon the batter evenly into the cake tin."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Run your hand under the tap and then use it to smooth the top of the cake."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Now, wrap a double thickness of brown paper around the tin and secure it with string."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Place the cake in the centre of the pre-heated 160c (310F) oven and bake for 3- 3 1/2 hours, or until a skewer, inserted into the centre of the cake, comes out clean."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Remove the cake from the oven and, while still hot, pour over the extra port."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Now, wrap the cake (tin and all) in a thick, clean towel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Keep wrapped for at least 24 hours, or until the cake is completely cold."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Store the cake, well covered, in its tin in a cool, dry place- or in the refrigerator if it's really hot where you live."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Each week before Christmas, use a skewer to poke several holes in the top of the cake and pour over a little more port- this is called'feeding' the cake."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Close to Christmas, you can ice this cake with the traditional Christmas cake icing (frosting) if you wish, but it will still be spectacularly good without it."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Serve small portions as this cake is very, very rich."
+            }
+        ],
+        "recipeYield": "12 serving(s)",
+        "imagelocal": "decadently_rich_port_and_chocolate_christmas_cake.webp"
+    },
+    "caribbean-christmas-cake-known-as-black-cake-73302": {
+        "id": "73302",
+        "name": "Caribbean Christmas Cake (Known As Black Cake)",
+        "author": "Lennie",
+        "cookTime": "PT1H30M",
+        "prepTime": "PT20M",
+        "totalTime": "PT1H50M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/73/30/2/picMwyr0K.jpg",
+        "recipeCategory": "Dessert",
+        "keywords": "Fruit,Nuts,Caribbean,Kosher,Potluck,Christmas,Weeknight,Brunch,Oven,< 4 Hours",
+        "recipeIngredient": [
+            "1/2  lb    butter, softened ",
+            "1   cup    sugar",
+            "2   tablespoons    browning sauce (helps to darken the cake, especially if you don't use dark rum in the cake) (optional)",
+            "1   teaspoon    vanilla",
+            "1 1/2  cups    all-purpose flour",
+            "1   teaspoon    baking powder",
+            "1   teaspoon    cinnamon",
+            "1/2  teaspoon    allspice",
+            "1/2  teaspoon    salt",
+            "4   large    eggs",
+            "1   cup    dark rum (brandy can be substituted, as can red wine)",
+            "1/4  lb    mixed peel",
+            "1/4  lb    cherries",
+            "1/4  lb    mixed nuts (unsalted) or 1/4  lb    nuts, of your choice ",
+            "1/2  lb    prune, chopped ",
+            "1   lb    raisins",
+            "1       lime, zest of, freshly grated ",
+            "1       lemon, zest of"
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "547.5",
+            "fatContent": "22.2",
+            "saturatedFatContent": "11",
+            "cholesterolContent": "102.7",
+            "sodiumContent": "354.5",
+            "carbohydrateContent": "75.3",
+            "fiberContent": "4.4",
+            "sugarContent": "48.3",
+            "proteinContent": "7.2"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Preheat oven to 325&deg;F; spray a nine-inch cake pan with nonstick cooking spray and set aside."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "In a mixing bowl, beat together the butter, sugar, vanilla and browning until soft and creamy."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "In a separate bowl, sift together the dry ingredients."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "In a third bowl, beat the eggs with the rum."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add egg mixture to butter mixture and thoroughly combine, then stir in zest, fruit and nuts."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Fold in flour mixture; do not overbeat."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Put batter into prepared pan and bake in preheated oven for approximately 90 minutes, or until cake tests done; may need longer."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Remove cake from pan when cool."
+            }
+        ],
+        "recipeYield": "12 serving(s)",
+        "imagelocal": "caribbean_christmas_cake_(known_as_black_cake).webp"
+    },
+    "magical-christmas-fairy-cakes-christmas-fairy-cupcakes-343473": {
+        "id": "343473",
+        "name": "Magical Christmas Fairy Cakes - Christmas Fairy Cupcakes",
+        "author": "French Tart",
+        "cookTime": "PT12M",
+        "prepTime": "PT30M",
+        "totalTime": "PT42M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/34/34/73/picjDM4fq.jpg",
+        "recipeCategory": "Dessert",
+        "keywords": "Scottish,Welsh,European,Toddler Friendly,Kid Friendly,Christmas,Sweet,< 60 Mins,Easy",
+        "recipeIngredient": [
+            "125   g   softened butter",
+            "125   g    caster sugar",
+            "2       eggs, lightly beaten ",
+            "1   teaspoon    vanilla extract",
+            "125   g    self-raising flour",
+            "2   tablespoons    milk",
+            "125   g    icing sugar",
+            "  water",
+            "  vanilla extract (optional)",
+            "  icing sugar",
+            "150   g   ready-to-roll fondant",
+            "  edible glitter (sparkles)"
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "206.5",
+            "fatContent": "9.4",
+            "saturatedFatContent": "5.7",
+            "cholesterolContent": "53.6",
+            "sodiumContent": "219.7",
+            "carbohydrateContent": "28.8",
+            "fiberContent": "0.3",
+            "sugarContent": "20.7",
+            "proteinContent": "2.2"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Makes 24 mini cakes or 12 larger ones."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "For mini cakes you will need a 12 hole tartlet tin (these are 5cm at the rim and 1 1/2 cm deep) and you will need to use it twice, unless you have two. For larger cakes use a 12-hole bun or muffin tin (these are 6 1/2 cm at the rim and 2cm deep). You can use the little paper cases according to the size tin you have - I have suggested silver. If not, butter the base and sides of the holes before filling with the mixture."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Preheat the oven to 190C/375F/Gas mark 5. Either butter the tin or place the paper cases in the holes (see above). In a mixing bowl beat the butter and sugar until pale and fluffy. You can use an electric whisk or a wooden spoon."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add the beaten egg, a little at a time, whisking to incorporate, then beat in the vanilla."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sift in half of the flour and fold into the mixture. Add the milk and the rest of the flour and fold until well combined."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Spoon into the tin and bake for 12 minutes or until risen and golden on top. Allow to cool for ten minutes before removing from the tin. Cool the cakes on a cooling tray/rack."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Mix a little water to the icing sugar until you have a soft glace icing - add a little vanilla extract if you wish, or other flavourings."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Spoon the icing over the top of the cooled fairy cakes, allowing the icing to drip down into the cases or over the sides of the cakes."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Roll out the fondant icing on a board with icing sugar sprinkled over to stop it sticking; press or cut your festive shapes and place one on top of each iced fairy cake.  Sprinkle over the edible glitter or sparkles and arrange the fairy cakes on an attractive serving plate."
+            }
+        ],
+        "recipeYield": "12-24 Christmas  Fairy Cakes, 12 serving(s)",
+        "imagelocal": "magical_christmas_fairy_cakes_-_christmas_fairy_cupcakes.webp"
+    },
+    "diabetic-christmas-cake-196294": {
+        "id": "196294",
+        "name": "Diabetic Christmas Cake",
+        "author": "Tisme",
+        "cookTime": "PT1H",
+        "prepTime": "PT25M",
+        "totalTime": "PT1H25M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/19/62/94/picfA7hHQ.jpg",
+        "recipeCategory": "Dessert",
+        "keywords": "Fruit,Christmas,< 4 Hours",
+        "recipeIngredient": [
+            "1 1/2  cups    sultanas",
+            "1/2  cup    raisins",
+            "2   tablespoons    brandy",
+            "1   tablespoon    water",
+            "1   cup   sieved pumpkin puree (no lumps)",
+            "2       eggs, beaten ",
+            "1/2  cup    apple juice concentrate",
+            "1/2  cup    skim milk or 1/2  cup    low-fat milk",
+            "1/2  cup   chopped pecans",
+            "1   teaspoon    ground cinnamon",
+            "1   teaspoon    mixed spice",
+            "1   cup    self-rising flour",
+            "1   cup    wholemeal self-rising flour",
+            "1/2  teaspoon    bicarbonate of soda"
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "194.1",
+            "fatContent": "4.4",
+            "saturatedFatContent": "0.6",
+            "cholesterolContent": "31.2",
+            "sodiumContent": "208.9",
+            "carbohydrateContent": "35.8",
+            "fiberContent": "1.9",
+            "sugarContent": "20.7",
+            "proteinContent": "4"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Mix the sultanas, raisins, brandy and water, and then soak overnight."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Mix seived pumpkin, eggs, apple concentrate and milk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add the soaked fruit, nuts and spices, then sifted flour and bicarbonate of soda. Return bran left in sieve to flour mixture. Mix well with wooden spoon."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Spoon into a lightly greased 20cm cake tin."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Bake for 10 minutes at 200C, then turn down the heat and bake at 180C until cooked through and browned. (approx. 1-1/4 hours)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Using the apple concentrate gives the sweetness to this cake."
+            }
+        ],
+        "recipeYield": "12 serving(s)",
+        "imagelocal": "diabetic_christmas_cake.webp"
+    },
+    "christmas-cake-australian-273319": {
+        "id": "273319",
+        "name": "Christmas Cake - Australian",
+        "author": "JoyfulCook",
+        "cookTime": "PT2H",
+        "prepTime": "PT1H",
+        "totalTime": "PT3H",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/27/33/19/piciNXgcT.jpg",
+        "recipeCategory": "Dessert",
+        "keywords": "Fruit,Nuts,European,Christmas,Sweet,< 4 Hours",
+        "recipeIngredient": [
+            "125   g    glace pineapple",
+            "125   g    glace apricot",
+            "250   g    dates, stoneless ",
+            "250   g    glace cherries, green and red ",
+            "125   g   whole blanched almonds",
+            "250   g    brazil nuts, whole ",
+            "2       eggs",
+            "1/4  cup    light brown sugar",
+            "2   teaspoons    vanilla essence",
+            "1   tablespoon    rum",
+            "90   g    butter, softened ",
+            "1/2  cup    plain flour",
+            "1/4  cup    self rising flour"
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "377.7",
+            "fatContent": "20.9",
+            "saturatedFatContent": "6.1",
+            "cholesterolContent": "41",
+            "sodiumContent": "99.4",
+            "carbohydrateContent": "45.3",
+            "fiberContent": "4",
+            "sugarContent": "35.2",
+            "proteinContent": "6.2"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Prepare all ingredients first. Chop pineapple, apricots and dates into pieces the same size as the Brazil nuts, leave nuts whole, combine fruit and nuts in a large bowl."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Beat eggs in a bowl until thick and creamy, add sugar, essence, rum and softened butter, beat until well combined."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Stir into fruit mixture and add sifted flours."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Spread mixture evenly and firmly into a large loaf pan which has been greased and lined."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Bake at 150&deg;C for about 2 hours."
+            }
+        ],
+        "recipeYield": "15-20 Slices",
+        "imagelocal": "christmas_cake_-_australian.webp"
+    },
+    "my-moms-light-christmas-cake-191650": {
+        "id": "191650",
+        "name": "My Mom's Light Christmas Cake",
+        "author": "John DOH",
+        "cookTime": "PT3H",
+        "prepTime": "PT25M",
+        "totalTime": "PT3H25M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/19/16/50/picpyCeHq.jpg",
+        "recipeCategory": "Dessert",
+        "keywords": "Canadian,Christmas,< 4 Hours",
+        "recipeIngredient": [
+            "1/2  lb    red cherries",
+            "1/2  lb    green cherries",
+            "1/2  lb    mixed fruit",
+            "1/2  lb    citrus peel (fresh)",
+            "8   ounces    pineapple juice",
+            "1 1/4  cups    butter",
+            "1 1/4  cups    white sugar",
+            "6       eggs, beaten well ",
+            "2   cups   sifted flour",
+            "1/2  teaspoon    salt",
+            "1   teaspoon    baking powder",
+            "1   teaspoon    vanilla",
+            "1   lb    white raisins",
+            "1/2  lb    brazil nut, slivered ",
+            "1/2  lb    blanched almond, slivered "
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "1540.2",
+            "fatContent": "88.7",
+            "saturatedFatContent": "33.2",
+            "cholesterolContent": "313.2",
+            "sodiumContent": "620.7",
+            "carbohydrateContent": "175.8",
+            "fiberContent": "16.3",
+            "sugarContent": "98.4",
+            "proteinContent": "28.7"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Mix cherries, peel, fruit and juice together well, and let stand for two days, stirring frequently.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add to remaining ingredients, mixing very thoroughly.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Pour into bread pans, and bake three hours at 300 degrees.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Enjoy some of the happiness we knew!"
+            }
+        ],
+        "recipeYield": "6-8 serving(s)",
+        "imagelocal": "mini_christmas_cakes.webp"
+    },
+    "christmas-dump-cake-444308": {
+        "id": "444308",
+        "name": "Christmas Dump Cake",
+        "author": "Lindas Busy Kitchen",
+        "cookTime": "PT1H15M",
+        "prepTime": "PT10M",
+        "totalTime": "PT1H25M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/44/43/08/hXqEVRFTgCbeMFitWUgG_20171222_160942.jpg",
+        "recipeCategory": "Dessert",
+        "keywords": "Berries,Fruit,Nuts,Low Protein,Christmas,Thanksgiving,Birthday,< 4 Hours",
+        "recipeIngredient": [
+            "1 (16   ounce) can   cranberry sauce, whole ",
+            "1 (21   ounce) can   apple pie filling",
+            "1 (18 1/4  ounce) box   yellow cake mix",
+            "1/2  cup    butter (1 stick)",
+            "1/2  cup    walnuts, chopped  or 1/2  cup    granola cereal"
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "395.7",
+            "fatContent": "15.8",
+            "saturatedFatContent": "5.8",
+            "cholesterolContent": "21.2",
+            "sodiumContent": "405.3",
+            "carbohydrateContent": "62.7",
+            "fiberContent": "2",
+            "sugarContent": "40.2",
+            "proteinContent": "3.3"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Heat oven to 325."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Dump cranberry sauce into an ungreased 9 x 13&quot; pan and spread around the pan as well as you can."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Dump Apple Pie filling into pan. Spread mixture evenly over cranberry sauce then &quot;sift&quot; dry cake mix on top."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cut up butter and dot top of cake."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sprinkle nuts or granola on top of cake."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Bake 1 hour 15 minutes."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cool 10 minutes, then cut into squares."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Serve with Cool Whip or ice cream."
+            }
+        ],
+        "recipeYield": "12 serving(s)",
+        "imagelocal": "christmas_dump_cake.webp"
+    },
+    "smore-christmas-cream-cake-351409": {
+        "id": "351409",
+        "name": "S'more Christmas Cream Cake",
+        "author": "Busters friend",
+        "cookTime": "PT1H10M",
+        "prepTime": "PT20M",
+        "totalTime": "PT1H30M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/35/14/09/picvU1npN.jpg",
+        "recipeCategory": "Dessert",
+        "keywords": "Christmas,< 4 Hours",
+        "recipeIngredient": [
+            "4   ounces   sweet dark chocolate, melted and cooled to room temperature ",
+            "2 2/3  cups    all-purpose flour",
+            "1 1/2  cups    sugar",
+            "2   teaspoons    baking powder",
+            "1/2  teaspoon    baking soda",
+            "1/2  teaspoon    salt",
+            "1   cup    sour cream",
+            "1/2  cup    butter, melted ",
+            "3   tablespoons    milk",
+            "3       extra-large eggs",
+            "3   ounces    reduced-fat cream cheese",
+            "6   ounces   sweet dark chocolate, melted ",
+            "1/2  cup    marshmallow creme",
+            "1/2  cup    pecans, coarsely chopped ",
+            "1/2  cup    graham cracker, coarsely chopped ",
+            "1   cup    confectioners' sugar",
+            "1   tablespoon    butter, softened ",
+            "1/4  teaspoon    vanilla",
+            "3   cups    marshmallow creme (or fluff)",
+            "2 -3   cups    coconut, shredded "
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "10391.6",
+            "fatContent": "493",
+            "saturatedFatContent": "305.5",
+            "cholesterolContent": "1165.8",
+            "sodiumContent": "4921.5",
+            "carbohydrateContent": "1487.3",
+            "fiberContent": "91",
+            "sugarContent": "822",
+            "proteinContent": "137.7"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Heat oven to 350 degrees. Generously coat a Bundt pan with baking spray. Set it upside down on paper towel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Combine the melted chocolate and remaining cake ingredients in a large mixing bowl. Beat on medium speed until well mixed, 3 to 4 minutes. Place about 2/3 of batter in prepared Bundt pan. Set remainder aside."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "In a medium bowl, combine cream cheese and melted chocolate; stir in marshmallow creme, pecans, and graham crackers. Spoon filling over center of batter in pan without letting it touch the sides. Spoon the reserved batter over the filling."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Bake for 60 to 70 minutes, until cake tests done. Cool upright in pan for 20 minutes; turn carefully onto a cooling rack, and let it cool completely."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "To make frosting, measure confectioners' sugar, butter, vanilla, and 2 cups marshmallow cr&egrave;me in a bowl. Stir until smooth. Stir in remaining marshmallow cr&egrave;me until smooth."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Spread some frosting into the indentations of Bundt cake. Sprinkle frosted sections with coconut. Spread the remaining frosting over a round serving platter and sprinkle with shredded coconut. Place cake in center of platter. Decorate cake with red and green candies if desired. Serve in slices with a dollop of the coconut frosting from the serving plate under the cake."
+            }
+        ],
+        "recipeYield": "1 cake",
+        "imagelocal": "s'more_christmas_cream_cake.webp"
+    },
+    "tulip-fairys-family-christmas-cake-197558": {
+        "id": "197558",
+        "name": "Tulip-Fairy's Family Christmas Cake",
+        "author": "Tulip-Fairy",
+        "cookTime": "PT5H",
+        "prepTime": "PT1H",
+        "totalTime": "PT6H",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/19/75/58/pic5PbltW.jpg",
+        "recipeCategory": "Dessert",
+        "keywords": "Christmas",
+        "recipeIngredient": [
+            "18   ounces    sultanas",
+            "18   ounces    raisins",
+            "8   ounces    glace cherries",
+            "6   ounces   chopped mixed nuts",
+            "6       eggs",
+            "12   ounces    sugar",
+            "12   ounces    butter",
+            "18   ounces    self raising flour",
+            "3/8  pint    milk (mixed together) or 3/8  pint    brandy (mixed together)",
+            "  brandy, for soaking fruit "
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "13742.2",
+            "fatContent": "630.2",
+            "saturatedFatContent": "231.7",
+            "cholesterolContent": "1873.1",
+            "sodiumContent": "7316.9",
+            "carbohydrateContent": "1942.7",
+            "fiberContent": "112.9",
+            "sugarContent": "1179.6",
+            "proteinContent": "241.1"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Weigh out all fruit and leave to soak in the brandy overnight."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cream butter and sugar until pale and fluffy."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add eggs and flour and mix in milk and brandy until combined."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Stir in fruit and nuts, at this point I have been known to mix with a pair of very clean hands to ensure that all the fruit is mixed into the cake mixture."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Place mixture into a greased and lined 10&quot; tin, protect with brown paper -- see note!"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Bake in a slow oven 150&deg;C 300&deg;F Gas mark 2 for  5 1/2 hours or until a skewer can be pulled out of the centre of the cake clean."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Note: Protect a large cake by fastening a band of brown paper round the tin  2-3&quot; higher than the tin, and cover the top of the cake with greaseproof paper after 3 hours."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "The preparation time is a guess as this is not a job to be rushed, especially if you take on board a brandy or two while mixing it!  Don't forget to make a wish while stirring it -- this has become a family tradition in my house!"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Servings: Another guess as it depends on how big your slices are ;-)."
+            }
+        ],
+        "recipeYield": "1 cake",
+        "imagelocal": "tulip-fairy's_family_christmas_cake.webp"
+    },
+    "no-bake-mini-christmas-cakes-197617": {
+        "id": "197617",
+        "name": "No Bake Mini Christmas Cakes",
+        "author": "Tulip-Fairy",
+        "cookTime": "",
+        "prepTime": "PT45M",
+        "totalTime": "PT45M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/19/76/17/picbUFEaR.jpg",
+        "recipeCategory": "Christmas",
+        "keywords": "< 60 Mins",
+        "recipeIngredient": [
+            "100   g    sultanas",
+            "100   g    raisins",
+            "25   g    ground almonds",
+            "50   g   chopped glace ginger",
+            "1       orange, rind of, grated ",
+            "1   teaspoon    mixed spice",
+            "2   teaspoons    fresh orange juice, if needed ",
+            "50   g   almond marzipan",
+            "75   g   ready to roll icing",
+            "  icing sugar, for dusting ",
+            "48       dragees (edible silver balls, for decoration)"
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "117.7",
+            "fatContent": "1.7",
+            "saturatedFatContent": "0.1",
+            "cholesterolContent": "0",
+            "sodiumContent": "3.8",
+            "carbohydrateContent": "26.9",
+            "fiberContent": "1.6",
+            "sugarContent": "19.8",
+            "proteinContent": "1.7"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "All you do is put the ingredients for the cakes, except the orange juice, in a food processor and chop finely."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Then add the orange juice, if the mixture is a little dry."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "After that, divide the mixture into eight, and use your hands to shape them into small cakes, about 4cm square."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Now dust the work surface lightly with icing sugar and roll the marzipan out to a 16cm x 7.5cm rectangle."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cut out eight stars using a 4 cm star cutter (make a template of one if you don't have a cutter)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Drape one star over each cake."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Then roll out the icing and do the same, but drape the icing in the opposite way to the marzipan on each cake."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Decorate each icing  star with six silver balls."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Store the cakes in an airtight box til needed."
+            }
+        ],
+        "recipeYield": "8 cakes, 8 serving(s)",
+        "imagelocal": "no_bake_mini_christmas_cakes.webp"
+    },
+    "philly-christmas-bundt-cake-fruitcake-195074": {
+        "id": "195074",
+        "name": "Philly Christmas Bundt  Cake (Fruitcake)",
+        "author": "Tina S.",
+        "cookTime": "PT1H20M",
+        "prepTime": "PT20M",
+        "totalTime": "PT1H40M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/19/50/74/pic8GzzaD.jpg",
+        "recipeCategory": "Dessert",
+        "keywords": "Winter,Christmas,For Large Groups,< 4 Hours",
+        "recipeIngredient": [
+            "1 (8   ounce) package   Philadelphia Cream Cheese, softened ",
+            "1   cup    butter or 1   cup    margarine, softened ",
+            "1 1/2  cups    sugar",
+            "4       eggs",
+            "1 1/2  teaspoons    vanilla",
+            "1 1/2  teaspoons    baking powder",
+            "1   pinch    salt",
+            "1   cup    candied fruit or 1   cup    raisins",
+            "2 1/4  cups    cake flour (1/4 cup is for fruit)",
+            "1/2  cup    pecans or 1/2  cup    walnuts, chopped "
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "335.4",
+            "fatContent": "20.2",
+            "saturatedFatContent": "10.7",
+            "cholesterolContent": "92.6",
+            "sodiumContent": "209",
+            "carbohydrateContent": "35.1",
+            "fiberContent": "0.7",
+            "sugarContent": "19.5",
+            "proteinContent": "4.4"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Blend cream cheese, butter, sugar,eggs, and vanilla well."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Slowly add 2 cups cake flour sifted with baking powder."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Combine remaining 1/4 cup flour with fruit and nuts."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Fold into batter."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Pour into greased 10in. bundt pan."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Bake at 325* for 1 hour and 15 minutes."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cool in pan for 5-10 minutes before removing."
+            }
+        ],
+        "recipeYield": "16 serving(s)",
+        "imagelocal": "philly_christmas_bundt_cake_(fruitcake).webp"
+    },
+    "chai-berry-orange-christmas-cake-526860": {
+        "id": "526860",
+        "name": "Chai &amp; Berry Orange Christmas Cake",
+        "author": "The_TeaShed",
+        "cookTime": "PT1H30M",
+        "prepTime": "PT20M",
+        "totalTime": "PT1H50M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/submissions/recipe/2000990985/zr8CfqaCREW7k8FOuHjg_12400251_10208202578003630_1208898593_o-800x451.jpg",
+        "recipeCategory": "Dessert",
+        "keywords": "Christmas,< 4 Hours",
+        "recipeIngredient": [
+            "250   g    butter",
+            "250   g    muscovado sugar",
+            "4       eggs",
+            "300   g    plain flour",
+            "1   tablespoon    ground cinnamon",
+            "1   kg    mixed dried fruit",
+            "200   g    dried cranberries",
+            "2       oranges, zest of",
+            "150   ml    chai tea (Baby, It's Cold Outside Tea)",
+            "230   ml   berry orange tea",
+            "230   g    sugar"
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "979.3",
+            "fatContent": "28.7",
+            "saturatedFatContent": "16.9",
+            "cholesterolContent": "159.8",
+            "sodiumContent": "282.8",
+            "carbohydrateContent": "180",
+            "fiberContent": "12.7",
+            "sugarContent": "61.1",
+            "proteinContent": "11.5"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Soak the dried fruit in strong brewed Baby, It's Cold Outside Chai Tea for at least 2 hours."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "In a mixing bowl, beat the butter, sugar, eggs and cinnamon until smooth. Mix in the fruit, cranberries and orange zest until nicely distributed. Then sift the flour and fold it into the batter."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Decant the mixture into lined round cake tin and smooth the surface with a spatula."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Bake at 150C for 1.5 - 2 hours or until a skewer comes out of the cake clean."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cool the cake on a wire rack before glazing."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "For the glaze: heat 1 cup of water and brew 2 Berry Orange tea bags for 10 minutes. Remove the tea bags, boil the tea in a pan and add 1 cup of sugar. Heat on low for 10 minutes until all the sugar has dissolved and the volume reduced by half."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Let it cool for 20 minutes before drizzling over the cake. Keep in an airtight container for up to 3 months."
+            }
+        ],
+        "recipeYield": "8 serving(s)",
+        "imagelocal": "chai_&amp;_berry_orange_christmas_cake.webp"
+    },
+    "easy-christmas-holly-bundt-cake-402736": {
+        "id": "402736",
+        "name": "Easy Christmas Holly Bundt Cake",
+        "author": "Jennibear",
+        "cookTime": "PT45M",
+        "prepTime": "PT10M",
+        "totalTime": "PT55M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/40/27/36/picHApzc4.jpg",
+        "recipeCategory": "Dessert",
+        "keywords": "Christmas,< 60 Mins,Easy",
+        "recipeIngredient": [
+            "1 (18 1/4  ounce) box   cake mix (any flavor)",
+            "1 (12   ounce) can   white frosting",
+            "1 (6   ounce) can  wilton's green spray frosting",
+            "12       red-hot candies"
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "362.9",
+            "fatContent": "11.6",
+            "saturatedFatContent": "2",
+            "cholesterolContent": "0",
+            "sodiumContent": "366.8",
+            "carbohydrateContent": "62.8",
+            "fiberContent": "0.4",
+            "sugarContent": "50.5",
+            "proteinContent": "2"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Make the cake in a bundt pan according to package directions.  Let cool completely.  Remove lids from frosting and microwave for 10 seconds.  Stir.  Pour slowly over the cake to cover.  Now take your green spray frosting and make 3 holly branches in several spots on the cake.  Top with 2-3 red hot candies in the middle.  And there you have an easy, adorable Christmas cake!"
+            }
+        ],
+        "recipeYield": "12 slices, 12 serving(s)",
+        "imagelocal": "easy_christmas_holly_bundt_cake.webp"
+    },
+    "christmas-coffee-cake-400982": {
+        "id": "400982",
+        "name": "Christmas Coffee Cake",
+        "author": "-BreanneMarie-",
+        "cookTime": "PT28M",
+        "prepTime": "PT15M",
+        "totalTime": "PT43M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/40/09/82/pic9xzmhb.jpg",
+        "recipeCategory": "Breads",
+        "keywords": "Christmas,Brunch,< 60 Mins,Easy",
+        "recipeIngredient": [
+            "1/2  cup    shortening",
+            "3/4  cup    sugar",
+            "1   teaspoon    vanilla",
+            "3       eggs",
+            "2   cups    sifted flour",
+            "1   teaspoon    baking powder",
+            "1   teaspoon    baking soda",
+            "1   cup    sour cream",
+            "6   tablespoons   soft butter",
+            "1   cup   firmly packed brown sugar",
+            "2   teaspoons    cinnamon",
+            "1   cup   chopped pecans"
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "444",
+            "fatContent": "26.3",
+            "saturatedFatContent": "9.3",
+            "cholesterolContent": "76.6",
+            "sodiumContent": "211.4",
+            "carbohydrateContent": "48.9",
+            "fiberContent": "1.6",
+            "sugarContent": "30.7",
+            "proteinContent": "5.2"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Cream together shortening, sugar, and vanilla. Add eggs, one at a time, and beat well after each. Sift together flour, baking powder, and baking soda. add 1/3 dry ingredients to batter, then 1/3 sour cream. Repeat additions of dry ingredients and sour cream two more times, beating only until incorporated after each addition.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "For topping: mix with a fork the butter, brown sugar, cinnamon, and pecans. Grease a 9x13-inch pan. Put half the batter in the pan, then half the topping, remaining batter, and remaining topping. \r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Bake at 350 for 28 minutes in a metal pan, or at 325 for 30-35 minutes in a pyrex pan."
+            }
+        ],
+        "recipeYield": "1 9x13 Coffee Cake, 12-15 serving(s)",
+        "imagelocal": "christmas_coffee_cake.webp"
+    },
+    "christmas-cake-with-blitzed-fruit-371835": {
+        "id": "371835",
+        "name": "Christmas Cake ( With Blitzed Fruit)",
+        "author": "Wild Thyme Flour",
+        "cookTime": "PT3H",
+        "prepTime": "PT30M",
+        "totalTime": "PT3H30M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/37/18/35/picrZiM0d.jpg",
+        "recipeCategory": "Dessert",
+        "keywords": "European,Winter,Christmas,For Large Groups,< 4 Hours",
+        "recipeIngredient": [
+            "200   g    sultanas",
+            "200   g    raisins",
+            "200   g    prunes, chopped in half ",
+            "175   g    dates, chopped ",
+            "200   g    apricots",
+            "175   g   mixed candied citrus peel",
+            "150   ml    dark beer (stout or porter beer)",
+            "150   ml    brandy (or dark rum)",
+            "2   tablespoons    sherry wine",
+            "1       orange, juice and zest of ",
+            "100   g    brazil nuts, chopped ",
+            "100   g    hazelnuts, toasted and chopped ",
+            "100   g    walnuts, chopped ",
+            "250   g    self raising flour",
+            "200   g    ground almonds",
+            "1   teaspoon    mixed spice",
+            "1   teaspoon    ground ginger",
+            "2   teaspoons    cinnamon",
+            "1/2  teaspoon    ground cloves",
+            "225   g    unsalted butter",
+            "225   g    dark muscovado sugar",
+            "6       eggs",
+            "1       lemon, juice and zest of"
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "750.2",
+            "fatContent": "32.7",
+            "saturatedFatContent": "10",
+            "cholesterolContent": "109.5",
+            "sodiumContent": "40.1",
+            "carbohydrateContent": "85.6",
+            "fiberContent": "7.9",
+            "sugarContent": "51.7",
+            "proteinContent": "12.2"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Soak the fruits  and chopped peel in a bowl and pour over the orange juice and brandy, beer and sherry.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Mix well and store in a cool dark place, stiring every few weeks. the fruits are ready when soft and very plump.If tehy look dry add a splash or brandy or orange juice.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Heat oven to 150&deg;C grease a 20 cm round cake tin, about 8 cm deep. Line with a double layer of baking paper.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Blitz the soaked friut in 4 batches, leaving the last batch only lightly to keep some texture in the cake.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Mix in the flour,almonds and spices in a large bowl, add the lemon juice, zest and  fruits then mix with your hands. It will be hard to mix, don't worry.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cream the butter with the sugar with an electric hand whisk until light and fluffy, then beat in the eggs, one at a time.Stir into the flour mixture, then add the nuts.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Place in the prepared cake tin and bake1 1/2 hours then reduce heat to 140C and bake a further 2-3 hours, Checking with a skewer it should come out clean.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cool 5 minutes in tin then remove and cool on a wire rack.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "When cool wrap in grease proof paper and foil, 'feeding' it brandy every 2 weeks. The cake can be made 3 months ahead and kept like this until ready to ice."
+            }
+        ],
+        "recipeYield": "1 cake, 16 serving(s)",
+        "imagelocal": "christmas_cake_(_with_blitzed_fruit).webp"
+    },
+    "elitetwigs-english-golden-christmas-cake-344068": {
+        "id": "344068",
+        "name": "Elitetwig's English Golden Christmas Cake",
+        "author": "EliteTwig",
+        "cookTime": "PT2H",
+        "prepTime": "PT20M",
+        "totalTime": "PT2H20M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/34/40/68/picM48XNA.jpg",
+        "recipeCategory": "Fruit",
+        "keywords": "European,Winter,Christmas,< 4 Hours,Easy",
+        "recipeIngredient": [
+            "12   ounces    self raising flour",
+            "1/2  teaspoon    nutmeg",
+            "1   teaspoon    mixed spice",
+            "6   ounces    caster sugar (for diabetics use a substitute ie splenda)",
+            "1 1/2  cups    raisins (prefer raisins to sultanas)",
+            "1   cup    glace cherries, washed dried and quartered ",
+            "2   cups    mixed peel",
+            "2   large    eggs",
+            "6   ounces    margarine or 6   ounces   softened butter",
+            "10   tablespoons    milk or 10   tablespoons    soya milk",
+            "1   teaspoon    almond essence (or any alcohol to same amount)"
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "7209",
+            "fatContent": "163.8",
+            "saturatedFatContent": "32.1",
+            "cholesterolContent": "444.4",
+            "sodiumContent": "1946.6",
+            "carbohydrateContent": "1427.5",
+            "fiberContent": "357.2",
+            "sugarContent": "301.3",
+            "proteinContent": "111"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Grease and linesides and base, with greaseproof paper, an 8 inch round cake tin.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Set the oven to warm, Gas Mark 3 / 325F / 160&deg;C.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "In a large mixing bowl sieve the flour, nutmeg and mixed spice together.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add all remaining ingredients to the flour.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Beat together with a wooden spoon ntil the mixture is a well combined and has a soft, dropping consistency.  (if too thick add tsp of milk at a time till desired effect.  If to runny add tsp of flour at a time till desired effect).\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Spoon mixture carefully into tin.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Shake to settle mixture and hollow out centre of the cake.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Bake for 2 hours approximately.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "As oven temps vary, test half an hour before end of recommended cooking time using a skewer.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Continue testing until skewer comes out clean.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Leave to cool in tin, when cold turn out and wrap in greaseproof paper.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Either store in an airtight tin or tightly wrap in foil.\r"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Can freeze for upto 2 months (must thaw before decorate)."
+            }
+        ],
+        "recipeYield": "1 8 inch round cake, 1 serving(s)",
+        "imagelocal": "elitetwig's_english_golden_christmas_cake.webp"
+    },
+    "non-traditional-christmas-cake-no-cherries-196539": {
+        "id": "196539",
+        "name": "Non-Traditional Christmas Cake - No Cherries",
+        "author": "LilKiwiChicken",
+        "cookTime": "PT3H",
+        "prepTime": "PT40M",
+        "totalTime": "PT3H40M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/19/65/39/picHUS97t.jpg",
+        "recipeCategory": "Dessert",
+        "keywords": "Tropical Fruits,Fruit,Nuts,New Zealand,Lactose Free,Free Of...,Christmas,For Large Groups,Oven,< 4 Hours",
+        "recipeIngredient": [
+            "425   g    sultanas",
+            "175   g    currants",
+            "900   g    mixed dried fruit, coarsely chopped ",
+            "1       orange, juice and zest of",
+            "440   g    crushed pineapple",
+            "200   ml    brandy, plus extra for finishing ",
+            "170   g    blanched almonds",
+            "200   g    unsalted butter",
+            "200   g    brown sugar",
+            "5       eggs",
+            "1 1/2  teaspoons    vanilla essence",
+            "1   teaspoon    almond essence",
+            "70   g    ground almonds",
+            "1 3/4  cups    bread flour",
+            "1   teaspoon    baking powder",
+            "2   teaspoons    ground cinnamon",
+            "2   teaspoons    mixed spice",
+            "1   teaspoon    nutmeg",
+            "200   ml    brandy, extra for feeding cake  (approximate)"
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "438.1",
+            "fatContent": "10.7",
+            "saturatedFatContent": "4.1",
+            "cholesterolContent": "49.6",
+            "sodiumContent": "37.2",
+            "carbohydrateContent": "51.9",
+            "fiberContent": "4.8",
+            "sugarContent": "21.4",
+            "proteinContent": "5.2"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Combine sultanas, currants, and chopped dried fruit in the largest mixing bowl you have.  Add the orange zest, juice, crushed pineapple (with juice) and brandy.  Mix well."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cover and leave overnight to soak, stirring occasionally. (I left this for two days with no problems)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Turn the oven onto 180 degrees C and toast the almonds until just brown.  Remove from the oven, let cool, and add to the fruit mixture."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Turn the oven down to 150 degrees Celsius."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cream the butter and sugar until light and fluffy."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add the eggs one at a time, beating to combine.  The mixture might curdle but this isn't a problem."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Stir through the vanilla and almond essences, then add to the fruit mixture with the ground almonds.  Stir well to combine."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sift the flour, baking powder and spices together.  Mix through the fruit mixture.  (My grandma told me that a light hand is necessary &amp; not to overmix - otherwise the cake turns out tough &amp; dry - who am I to argue with grandma?)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Spoon into a prepared baking tin (mine measures 7in x 9in), then bake for 3 hours."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "If the top starts browning too quickly cover with baking paper."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Remove from the oven after 3 hours and cool.  Gently pierce the top of the cake with a skewer in 10-12 places, then trickle over 3T of the extra brandy."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Wrap in tin foil and baking paper, and store in an airtight tin for 3-4 months.  Feed regularly with brandy to keep the cake moist and flavourful."
+            }
+        ],
+        "recipeYield": "1 cake, 30 serving(s)",
+        "imagelocal": "non-traditional_christmas_cake_-_no_cherries.webp"
+    },
+    "christmas-jello-cake-125806": {
+        "id": "125806",
+        "name": "Christmas Jello Cake",
+        "author": "seesko",
+        "cookTime": "PT3H",
+        "prepTime": "PT30M",
+        "totalTime": "PT3H30M",
+        "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/12/58/06/picpdTUz1.jpg",
+        "recipeCategory": "Dessert",
+        "keywords": "Christmas,< 4 Hours,Easy",
+        "recipeIngredient": [
+            "1 (18   ounce) box   white cake mix",
+            "3       eggs (or as indicated for cake mix)",
+            "1/2  cup    vegetable oil (or as indicated for cake mix)",
+            "1   cup    water (or as indicated for cake mix)",
+            "1 (3   ounce) package   red Jell-O",
+            "1 (3   ounce) package   green Jell-O",
+            "2   cups    boiling water",
+            "1 (8   ounce) container   Cool Whip"
+        ],
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "367.8",
+            "fatContent": "19.7",
+            "saturatedFatContent": "6.4",
+            "cholesterolContent": "46.5",
+            "sodiumContent": "341.8",
+            "carbohydrateContent": "44.3",
+            "fiberContent": "0.4",
+            "sugarContent": "33.9",
+            "proteinContent": "4.3"
+        },
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Prepare cake mix using the directions on the cake box."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Pour the batter into 2 round pans (8 or 9 inch)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Bake as directed on cake box."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cool 10 minutes."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Remove from pans; cool completely."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Place cake layers top sides up back into the two clean pans."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Prick each layer with a utility fork at 1/2 inch intervals."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Pour 1 cup of boiling water over red flavor gelatin, stir until gelatin is dissolved."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Spoon over one of the cake layers."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Do the same with the green Jello."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Refrigerate 3 to 4 hours."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Dip the bottom of one pan into warm water for 10 seconds;  invert onto a plate, gently shaking to loosen."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Remove pan; spread with 1 cup of whipped topping,."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Remove other layer the same way; put on top of first layer."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Top with remaining whip cream."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Garnish with gumdrops cut to resemble holly.  Use green dye for leaves."
+            }
+        ],
+        "recipeYield": "12 pieces",
+        "imagelocal": "christmas_jello_cake.webp"
+    }
+}
